@@ -1,0 +1,235 @@
+{
+  "n": 1000,
+  "seed": 0,
+  "columns": [
+    "DMM (tf=0)",
+    "LC-MAPF",
+    "MAGAT+",
+    "HMAGAT"
+  ],
+  "results": {
+    "DMM (tf=0)": {
+      "k_seeds": 5,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.243,
+            0.244,
+            0.246,
+            0.25,
+            0.242
+          ],
+          "mean": 0.24500000000000002,
+          "ci_half_width": 0.003925856849147715
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.26,
+            0.256,
+            0.255,
+            0.25,
+            0.259
+          ],
+          "mean": 0.25599999999999995,
+          "ci_half_width": 0.0048876523607965456
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.231,
+            0.233,
+            0.233,
+            0.233,
+            0.235
+          ],
+          "mean": 0.233,
+          "ci_half_width": 0.0017556965569254736
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.266,
+            0.267,
+            0.266,
+            0.267,
+            0.264
+          ],
+          "mean": 0.266,
+          "ci_half_width": 0.0015204778196343425
+        }
+      }
+    },
+    "LC-MAPF": {
+      "k_seeds": 5,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.256,
+            0.257,
+            0.258,
+            0.257,
+            0.258
+          ],
+          "mean": 0.2572,
+          "ci_half_width": 0.0010386840905684468
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.245,
+            0.241,
+            0.241,
+            0.241,
+            0.244
+          ],
+          "mean": 0.2424,
+          "ci_half_width": 0.0024200606934537835
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.227,
+            0.229,
+            0.228,
+            0.228,
+            0.221
+          ],
+          "mean": 0.2266,
+          "ci_half_width": 0.003984309546207476
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.272,
+            0.273,
+            0.273,
+            0.273,
+            0.277
+          ],
+          "mean": 0.27360000000000007,
+          "ci_half_width": 0.0024200606934537835
+        }
+      },
+      "other": {
+        "(wait, right)": 0.0002
+      }
+    },
+    "MAGAT+": {
+      "k_seeds": 5,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.243,
+            0.247,
+            0.245,
+            0.249,
+            0.245
+          ],
+          "mean": 0.24580000000000002,
+          "ci_half_width": 0.002830975633946716
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.251,
+            0.249,
+            0.251,
+            0.244,
+            0.25
+          ],
+          "mean": 0.24900000000000003,
+          "ci_half_width": 0.003619461175368513
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.237,
+            0.234,
+            0.232,
+            0.24,
+            0.234
+          ],
+          "mean": 0.2354,
+          "ci_half_width": 0.003886399999999986
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.267,
+            0.27,
+            0.27,
+            0.267,
+            0.27
+          ],
+          "mean": 0.26880000000000004,
+          "ci_half_width": 0.002039935057789832
+        }
+      },
+      "other": {
+        "(wait, right)": 0.0006,
+        "(up, wait)": 0.0004
+      }
+    },
+    "HMAGAT": {
+      "k_seeds": 5,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.249,
+            0.265,
+            0.26,
+            0.24,
+            0.265
+          ],
+          "mean": 0.25579999999999997,
+          "ci_half_width": 0.01363917477855608
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.246,
+            0.236,
+            0.243,
+            0.275,
+            0.237
+          ],
+          "mean": 0.2474,
+          "ci_half_width": 0.019836263422328325
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.245,
+            0.235,
+            0.228,
+            0.199,
+            0.218
+          ],
+          "mean": 0.225,
+          "ci_half_width": 0.021805298878942236
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.259,
+            0.262,
+            0.268,
+            0.286,
+            0.279
+          ],
+          "mean": 0.27080000000000004,
+          "ci_half_width": 0.014192936293804734
+        }
+      },
+      "other": {
+        "(up, wait)": 0.0006,
+        "(wait, right)": 0.0004
+      }
+    }
+  }
+}

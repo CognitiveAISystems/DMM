@@ -1,0 +1,110 @@
+{
+  "table": "corridor_freq",
+  "paper_label": "tab:corridor_freq",
+  "unit": "percent",
+  "precision_decimals": 1,
+  "n_per_seed": 1000,
+  "k_seeds": 5,
+  "rows": [
+    {
+      "method": "DMM (beta=0.8)",
+      "source": "round_generalization_matrix.json train=4/test=4",
+      "WL": {
+        "mean": 51.4,
+        "ci": 9.0
+      },
+      "RW": {
+        "mean": 43.4,
+        "ci": 9.4
+      },
+      "WW": {
+        "mean": 2.2,
+        "ci": 0.5
+      },
+      "RL": {
+        "mean": 3.0,
+        "ci": 1.0
+      }
+    },
+    {
+      "method": "DMM (tf=0)",
+      "source": "baseline.json",
+      "WL": {
+        "mean": 24.5,
+        "ci": 0.4
+      },
+      "RW": {
+        "mean": 25.6,
+        "ci": 0.5
+      },
+      "WW": {
+        "mean": 23.3,
+        "ci": 0.2
+      },
+      "RL": {
+        "mean": 26.6,
+        "ci": 0.2
+      }
+    },
+    {
+      "method": "LC-MAPF",
+      "source": "baseline.json",
+      "WL": {
+        "mean": 25.7,
+        "ci": 0.1
+      },
+      "RW": {
+        "mean": 24.2,
+        "ci": 0.2
+      },
+      "WW": {
+        "mean": 22.7,
+        "ci": 0.4
+      },
+      "RL": {
+        "mean": 27.4,
+        "ci": 0.2
+      }
+    },
+    {
+      "method": "MAGAT+",
+      "source": "baseline.json",
+      "WL": {
+        "mean": 24.6,
+        "ci": 0.3
+      },
+      "RW": {
+        "mean": 24.9,
+        "ci": 0.4
+      },
+      "WW": {
+        "mean": 23.5,
+        "ci": 0.4
+      },
+      "RL": {
+        "mean": 26.9,
+        "ci": 0.2
+      }
+    },
+    {
+      "method": "HMAGAT",
+      "source": "baseline.json",
+      "WL": {
+        "mean": 25.6,
+        "ci": 1.4
+      },
+      "RW": {
+        "mean": 24.7,
+        "ci": 2.0
+      },
+      "WW": {
+        "mean": 22.5,
+        "ci": 2.2
+      },
+      "RL": {
+        "mean": 27.1,
+        "ci": 1.4
+      }
+    }
+  ]
+}

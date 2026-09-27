@@ -1,0 +1,40 @@
+# Python, build, and test caches
+__pycache__/
+*.py[cod]
+*.so
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.cache/
+.mypy_cache/
+.ruff_cache/
+.coverage*
+
+# Local environments and credentials
+.venv/
+venv/
+.env
+.envrc
+.pypirc
+
+# Downloaded data and generated experiment artifacts
+training/pretrain/data/
+_runtime/
+artifacts/
+train_dir/
+runs/
+eval_results/
+ablation_results/
+ablations/corridor/data/
+ablations/corridor/third_party/upstream_hmagat/
+weights/
+compiled/
+*.log
+.rendered.*.cpp
+precomputed_cost2go.bin
+
+# Generated figures; the published figures and plot assets are tracked.
+*.png
+*.gif
+!raw_results/**/assets/*.png

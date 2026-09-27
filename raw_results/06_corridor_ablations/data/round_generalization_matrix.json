@@ -1,0 +1,897 @@
+{
+  "n": 1000,
+  "seed": 0,
+  "train_labels": [
+    "2",
+    "4",
+    "8"
+  ],
+  "test_rounds": [
+    2,
+    4,
+    8,
+    12
+  ],
+  "results": {
+    "train=2/test=2": {
+      "k_seeds": 6,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.027,
+            0.425,
+            0.44,
+            0.416,
+            0.347,
+            0.375
+          ],
+          "mean": 0.3383333333333334,
+          "ci_half_width": 0.16410643747824155
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.036,
+            0.416,
+            0.39,
+            0.436,
+            0.495,
+            0.455
+          ],
+          "mean": 0.37133333333333335,
+          "ci_half_width": 0.1764258924018808
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.029,
+            0.05,
+            0.078,
+            0.069,
+            0.058,
+            0.067
+          ],
+          "mean": 0.0585,
+          "ci_half_width": 0.018213014326299758
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.037,
+            0.108,
+            0.092,
+            0.079,
+            0.099,
+            0.103
+          ],
+          "mean": 0.08633333333333333,
+          "ci_half_width": 0.02748018307435379
+        }
+      },
+      "other": {
+        "(wait, up)": 0.005333333333333333,
+        "(left, down)": 0.006833333333333334,
+        "(down, up)": 0.009166666666666667,
+        "(down, right)": 0.008666666666666666,
+        "(down, wait)": 0.0075,
+        "(down, left)": 0.007333333333333333,
+        "(right, up)": 0.004833333333333334,
+        "(left, right)": 0.006666666666666667,
+        "(left, up)": 0.005333333333333333,
+        "(left, left)": 0.006333333333333333,
+        "(wait, right)": 0.006333333333333333,
+        "(right, down)": 0.008833333333333334,
+        "(up, right)": 0.005833333333333334,
+        "(down, down)": 0.011166666666666667,
+        "(left, wait)": 0.005333333333333333,
+        "(wait, down)": 0.007666666666666666,
+        "(up, wait)": 0.0055,
+        "(up, left)": 0.005333333333333333,
+        "(right, right)": 0.0085,
+        "(up, up)": 0.0055,
+        "(up, down)": 0.0075
+      },
+      "valid_rate": {
+        "per_seed": [
+          0.063,
+          0.841,
+          0.83,
+          0.852,
+          0.842,
+          0.83
+        ],
+        "mean": 0.7096666666666667,
+        "ci_half_width": 0.3326299526392656
+      }
+    },
+    "train=2/test=4": {
+      "k_seeds": 6,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.028,
+            0.53,
+            0.555,
+            0.481,
+            0.395,
+            0.428
+          ],
+          "mean": 0.4028333333333333,
+          "ci_half_width": 0.202783748543245
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.035,
+            0.414,
+            0.375,
+            0.456,
+            0.539,
+            0.493
+          ],
+          "mean": 0.3853333333333333,
+          "ci_half_width": 0.19001141471395872
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.033,
+            0.015,
+            0.043,
+            0.032,
+            0.018,
+            0.038
+          ],
+          "mean": 0.029833333333333333,
+          "ci_half_width": 0.011639120157898536
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.027,
+            0.041,
+            0.027,
+            0.031,
+            0.048,
+            0.041
+          ],
+          "mean": 0.035833333333333335,
+          "ci_half_width": 0.009160283742876092
+        }
+      },
+      "other": {
+        "(left, right)": 0.007666666666666666,
+        "(down, right)": 0.01,
+        "(down, wait)": 0.007,
+        "(left, up)": 0.0055,
+        "(down, left)": 0.010166666666666666,
+        "(left, wait)": 0.006333333333333333,
+        "(down, down)": 0.016,
+        "(left, down)": 0.006,
+        "(left, left)": 0.004833333333333334,
+        "(up, down)": 0.004666666666666667,
+        "(up, wait)": 0.005,
+        "(wait, right)": 0.0065,
+        "(right, down)": 0.010333333333333333,
+        "(wait, down)": 0.007,
+        "(right, right)": 0.008333333333333333,
+        "(down, up)": 0.007833333333333333,
+        "(right, up)": 0.0065,
+        "(up, right)": 0.0065,
+        "(up, left)": 0.004,
+        "(wait, up)": 0.003,
+        "(up, up)": 0.003
+      },
+      "valid_rate": {
+        "per_seed": [
+          0.063,
+          0.944,
+          0.93,
+          0.937,
+          0.934,
+          0.921
+        ],
+        "mean": 0.7881666666666667,
+        "ci_half_width": 0.3729666067669465
+      }
+    },
+    "train=2/test=8": {
+      "k_seeds": 6,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.026,
+            0.557,
+            0.572,
+            0.497,
+            0.406,
+            0.446
+          ],
+          "mean": 0.4173333333333334,
+          "ci_half_width": 0.21194114213573542
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.03,
+            0.426,
+            0.416,
+            0.499,
+            0.583,
+            0.538
+          ],
+          "mean": 0.41533333333333333,
+          "ci_half_width": 0.20926704648224
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.023,
+            0.0,
+            0.006,
+            0.002,
+            0.0,
+            0.013
+          ],
+          "mean": 0.007333333333333333,
+          "ci_half_width": 0.009566208517484867
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.048,
+            0.017,
+            0.006,
+            0.002,
+            0.011,
+            0.003
+          ],
+          "mean": 0.0145,
+          "ci_half_width": 0.018188802930649398
+        }
+      },
+      "other": {
+        "(left, right)": 0.007,
+        "(left, left)": 0.004833333333333334,
+        "(down, down)": 0.015166666666666667,
+        "(down, left)": 0.009166666666666667,
+        "(down, right)": 0.009833333333333333,
+        "(left, wait)": 0.005833333333333334,
+        "(left, down)": 0.006333333333333333,
+        "(wait, right)": 0.007666666666666666,
+        "(up, down)": 0.0065,
+        "(right, right)": 0.0095,
+        "(right, up)": 0.005666666666666667,
+        "(wait, down)": 0.007666666666666666,
+        "(down, up)": 0.007333333333333333,
+        "(up, left)": 0.004,
+        "(left, up)": 0.004,
+        "(up, wait)": 0.004333333333333333,
+        "(right, down)": 0.009666666666666667,
+        "(wait, up)": 0.004,
+        "(down, wait)": 0.0075,
+        "(up, up)": 0.003,
+        "(up, right)": 0.0065
+      },
+      "valid_rate": {
+        "per_seed": [
+          0.056,
+          0.983,
+          0.988,
+          0.996,
+          0.989,
+          0.984
+        ],
+        "mean": 0.8326666666666668,
+        "ci_half_width": 0.3993912399167013
+      }
+    },
+    "train=2/test=12": {
+      "k_seeds": 6,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.023,
+            0.584,
+            0.583,
+            0.493,
+            0.381,
+            0.439
+          ],
+          "mean": 0.4171666666666667,
+          "ci_half_width": 0.21928325791416456
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.037,
+            0.412,
+            0.408,
+            0.505,
+            0.614,
+            0.554
+          ],
+          "mean": 0.4216666666666667,
+          "ci_half_width": 0.2149502245423345
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.021,
+            0.0,
+            0.006,
+            0.001,
+            0.0,
+            0.005
+          ],
+          "mean": 0.0055000000000000005,
+          "ci_half_width": 0.0084165079486685
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.036,
+            0.004,
+            0.003,
+            0.001,
+            0.005,
+            0.002
+          ],
+          "mean": 0.008499999999999999,
+          "ci_half_width": 0.014218195639742758
+        }
+      },
+      "other": {
+        "(down, right)": 0.010166666666666666,
+        "(left, right)": 0.007166666666666667,
+        "(down, down)": 0.017166666666666667,
+        "(left, down)": 0.0065,
+        "(up, wait)": 0.0055,
+        "(down, left)": 0.0085,
+        "(up, down)": 0.0055,
+        "(right, right)": 0.008333333333333333,
+        "(wait, down)": 0.0075,
+        "(down, up)": 0.008,
+        "(right, down)": 0.01,
+        "(up, right)": 0.005666666666666667,
+        "(up, left)": 0.004,
+        "(down, wait)": 0.009333333333333334,
+        "(left, up)": 0.004833333333333334,
+        "(left, wait)": 0.004166666666666667,
+        "(wait, up)": 0.0035,
+        "(right, up)": 0.006,
+        "(wait, right)": 0.007666666666666666,
+        "(up, up)": 0.0021666666666666666,
+        "(left, left)": 0.0055
+      },
+      "valid_rate": {
+        "per_seed": [
+          0.06,
+          0.996,
+          0.991,
+          0.998,
+          0.995,
+          0.993
+        ],
+        "mean": 0.8388333333333334,
+        "ci_half_width": 0.4004841325751247
+      }
+    },
+    "train=4/test=2": {
+      "k_seeds": 5,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.42,
+            0.442,
+            0.353,
+            0.473,
+            0.395
+          ],
+          "mean": 0.41659999999999997,
+          "ci_half_width": 0.05671878201231052
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.428,
+            0.418,
+            0.477,
+            0.372,
+            0.409
+          ],
+          "mean": 0.42079999999999995,
+          "ci_half_width": 0.047023506264845874
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.07,
+            0.06,
+            0.067,
+            0.072,
+            0.087
+          ],
+          "mean": 0.0712,
+          "ci_half_width": 0.0123336902117736
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.082,
+            0.08,
+            0.103,
+            0.083,
+            0.109
+          ],
+          "mean": 0.09140000000000001,
+          "ci_half_width": 0.016807986558776154
+        }
+      },
+      "valid_rate": {
+        "per_seed": [
+          0.848,
+          0.86,
+          0.83,
+          0.845,
+          0.804
+        ],
+        "mean": 0.8374,
+        "ci_half_width": 0.02670737071596525
+      }
+    },
+    "train=4/test=4": {
+      "k_seeds": 5,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.519,
+            0.536,
+            0.396,
+            0.593,
+            0.525
+          ],
+          "mean": 0.5138,
+          "ci_half_width": 0.08951211892386413
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.427,
+            0.415,
+            0.561,
+            0.358,
+            0.409
+          ],
+          "mean": 0.434,
+          "ci_half_width": 0.09401587031985613
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.025,
+            0.027,
+            0.016,
+            0.022,
+            0.022
+          ],
+          "mean": 0.022399999999999996,
+          "ci_half_width": 0.005163658485996144
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.029,
+            0.022,
+            0.027,
+            0.027,
+            0.044
+          ],
+          "mean": 0.0298,
+          "ci_half_width": 0.010364559490880446
+        }
+      },
+      "valid_rate": {
+        "per_seed": [
+          0.946,
+          0.951,
+          0.957,
+          0.951,
+          0.934
+        ],
+        "mean": 0.9478,
+        "ci_half_width": 0.010729877419616637
+      }
+    },
+    "train=4/test=8": {
+      "k_seeds": 5,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.529,
+            0.547,
+            0.404,
+            0.599,
+            0.556
+          ],
+          "mean": 0.5269999999999999,
+          "ci_half_width": 0.09113993148121188
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.468,
+            0.45,
+            0.596,
+            0.394,
+            0.436
+          ],
+          "mean": 0.4688,
+          "ci_half_width": 0.09455693333775157
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.002,
+            0.0,
+            0.0,
+            0.004,
+            0.002
+          ],
+          "mean": 0.0016,
+          "ci_half_width": 0.0020773681811368924
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.001,
+            0.003,
+            0.0,
+            0.003,
+            0.006
+          ],
+          "mean": 0.0026000000000000003,
+          "ci_half_width": 0.0028580669271379908
+        }
+      },
+      "valid_rate": {
+        "per_seed": [
+          0.997,
+          0.997,
+          1.0,
+          0.993,
+          0.992
+        ],
+        "mean": 0.9957999999999998,
+        "ci_half_width": 0.004060937901519799
+      }
+    },
+    "train=4/test=12": {
+      "k_seeds": 5,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.52,
+            0.558,
+            0.392,
+            0.604,
+            0.572
+          ],
+          "mean": 0.5292000000000001,
+          "ci_half_width": 0.10230755832410425
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.479,
+            0.442,
+            0.608,
+            0.395,
+            0.428
+          ],
+          "mean": 0.4704,
+          "ci_half_width": 0.10255657646080038
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.001,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean": 0.0002,
+          "ci_half_width": 0.0005552
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.0,
+            0.0,
+            0.0,
+            0.001,
+            0.0
+          ],
+          "mean": 0.0002,
+          "ci_half_width": 0.0005551999999999999
+        }
+      },
+      "valid_rate": {
+        "per_seed": [
+          0.999,
+          1.0,
+          1.0,
+          0.999,
+          1.0
+        ],
+        "mean": 0.9996,
+        "ci_half_width": 0.0006799783525966108
+      }
+    },
+    "train=8/test=2": {
+      "k_seeds": 5,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.343,
+            0.437,
+            0.382,
+            0.339,
+            0.361
+          ],
+          "mean": 0.37239999999999995,
+          "ci_half_width": 0.04956229072349257
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.498,
+            0.418,
+            0.465,
+            0.524,
+            0.456
+          ],
+          "mean": 0.47220000000000006,
+          "ci_half_width": 0.050431600480651026
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.069,
+            0.064,
+            0.061,
+            0.052,
+            0.097
+          ],
+          "mean": 0.0686,
+          "ci_half_width": 0.021152318514999723
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.09,
+            0.081,
+            0.092,
+            0.085,
+            0.086
+          ],
+          "mean": 0.08680000000000002,
+          "ci_half_width": 0.005368528498573884
+        }
+      },
+      "valid_rate": {
+        "per_seed": [
+          0.841,
+          0.855,
+          0.847,
+          0.863,
+          0.817
+        ],
+        "mean": 0.8446,
+        "ci_half_width": 0.021745136453009455
+      }
+    },
+    "train=8/test=4": {
+      "k_seeds": 5,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.391,
+            0.509,
+            0.452,
+            0.361,
+            0.465
+          ],
+          "mean": 0.4356,
+          "ci_half_width": 0.07364304734161943
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.542,
+            0.423,
+            0.496,
+            0.586,
+            0.474
+          ],
+          "mean": 0.5042,
+          "ci_half_width": 0.07775971924229148
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.033,
+            0.033,
+            0.026,
+            0.026,
+            0.033
+          ],
+          "mean": 0.030199999999999998,
+          "ci_half_width": 0.004759848468176273
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.034,
+            0.035,
+            0.026,
+            0.027,
+            0.028
+          ],
+          "mean": 0.03,
+          "ci_half_width": 0.005193420452842232
+        }
+      },
+      "valid_rate": {
+        "per_seed": [
+          0.933,
+          0.932,
+          0.948,
+          0.947,
+          0.939
+        ],
+        "mean": 0.9398,
+        "ci_half_width": 0.009348156815115955
+      }
+    },
+    "train=8/test=8": {
+      "k_seeds": 5,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.403,
+            0.537,
+            0.476,
+            0.367,
+            0.486
+          ],
+          "mean": 0.45380000000000004,
+          "ci_half_width": 0.08458103468177723
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.596,
+            0.456,
+            0.516,
+            0.631,
+            0.509
+          ],
+          "mean": 0.5416,
+          "ci_half_width": 0.08777868269323706
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.001,
+            0.004,
+            0.004,
+            0.0,
+            0.002
+          ],
+          "mean": 0.0022,
+          "ci_half_width": 0.0022207999999999998
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.0,
+            0.003,
+            0.004,
+            0.002,
+            0.003
+          ],
+          "mean": 0.0024000000000000002,
+          "ci_half_width": 0.0018827748033155743
+        }
+      },
+      "valid_rate": {
+        "per_seed": [
+          0.999,
+          0.993,
+          0.992,
+          0.998,
+          0.995
+        ],
+        "mean": 0.9954000000000001,
+        "ci_half_width": 0.003785959239083276
+      }
+    },
+    "train=8/test=12": {
+      "k_seeds": 5,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.394,
+            0.537,
+            0.483,
+            0.368,
+            0.48
+          ],
+          "mean": 0.4524,
+          "ci_half_width": 0.08643395967419287
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.606,
+            0.46,
+            0.517,
+            0.632,
+            0.52
+          ],
+          "mean": 0.547,
+          "ci_half_width": 0.08757389083054376
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.0,
+            0.001,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean": 0.0002,
+          "ci_half_width": 0.0005552
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.0,
+            0.002,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean": 0.0004,
+          "ci_half_width": 0.0011104
+        }
+      },
+      "valid_rate": {
+        "per_seed": [
+          1.0,
+          0.997,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "mean": 0.9994,
+        "ci_half_width": 0.0016656000000000015
+      }
+    }
+  }
+}

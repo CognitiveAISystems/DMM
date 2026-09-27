@@ -1,0 +1,9218 @@
+[
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 129,
+      "SoC": 3320,
+      "makespan": 129,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 6.205531992018223
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 150,
+      "SoC": 7310,
+      "makespan": 150,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 8.630560650490224
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 142,
+      "SoC": 11164,
+      "makespan": 142,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 17.589871897362173
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 220,
+      "SoC": 18879,
+      "makespan": 220,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 43.11410222668201
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 161,
+      "SoC": 4598,
+      "makespan": 161,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 5.281639628112316
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 166,
+      "SoC": 9638,
+      "makespan": 166,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 21.234210778027773
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 181,
+      "SoC": 15579,
+      "makespan": 181,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 32.56535640079528
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 242,
+      "SoC": 26934,
+      "makespan": 242,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 68.01735205389559
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 105,
+      "SoC": 2802,
+      "makespan": 105,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.643727813847363
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 110,
+      "SoC": 5993,
+      "makespan": 110,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.186578936874866
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 112,
+      "SoC": 9093,
+      "makespan": 112,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 26.558191674761474
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 125,
+      "SoC": 13153,
+      "makespan": 125,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 32.7395862294361
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 97,
+      "SoC": 2925,
+      "makespan": 97,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.305376677773893
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 105,
+      "SoC": 6368,
+      "makespan": 105,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.996021735481918
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 125,
+      "SoC": 10604,
+      "makespan": 125,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 30.58158806618303
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.8515625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 27821,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 62.30591043177992
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 97,
+      "SoC": 2795,
+      "makespan": 97,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.096635796129704
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 5693,
+      "makespan": 113,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.993796037510037
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 129,
+      "SoC": 9667,
+      "makespan": 129,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 37.62943210545927
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 122,
+      "SoC": 14499,
+      "makespan": 122,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 35.031792781315744
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 114,
+      "SoC": 3596,
+      "makespan": 114,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 17.9205019781366
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 116,
+      "SoC": 7323,
+      "makespan": 116,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 21.802076065912843
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 161,
+      "SoC": 13455,
+      "makespan": 161,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 34.40435067843646
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 232,
+      "SoC": 29206,
+      "makespan": 232,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 60.98738261964172
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 3375,
+      "makespan": 108,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 15.693181484006345
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 118,
+      "SoC": 7362,
+      "makespan": 118,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.103114464320242
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9947916666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 15866,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 53.62726981937885
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.8828125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 22854,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 71.8912981506437
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 124,
+      "SoC": 2374,
+      "makespan": 124,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.581300548277795
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 130,
+      "SoC": 4912,
+      "makespan": 130,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 25.119239969179034
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 130,
+      "SoC": 8252,
+      "makespan": 130,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 28.70003350265324
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 137,
+      "SoC": 11415,
+      "makespan": 137,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 42.533277806825936
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 85,
+      "SoC": 2044,
+      "makespan": 85,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 1.8148131556808949
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 85,
+      "SoC": 4183,
+      "makespan": 85,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 3.520393379032612
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 98,
+      "SoC": 6959,
+      "makespan": 98,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 9.612573423422873
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 98,
+      "SoC": 9569,
+      "makespan": 98,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.994506411254406
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 184,
+      "SoC": 4621,
+      "makespan": 184,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.801929566077888
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 180,
+      "SoC": 8615,
+      "makespan": 180,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 30.00925378780812
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 208,
+      "SoC": 13621,
+      "makespan": 208,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 44.59472804609686
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 234,
+      "SoC": 22086,
+      "makespan": 234,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 66.30256080813706
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 152,
+      "SoC": 4632,
+      "makespan": 152,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.785384111106396
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 198,
+      "SoC": 10882,
+      "makespan": 198,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 38.00144746899605
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9270833333333334,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 24819,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 55.084997040219605
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.71875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 36414,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 62.501644854433835
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 102,
+      "SoC": 2500,
+      "makespan": 102,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.620122903957963
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 5502,
+      "makespan": 108,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 22.705209818668664
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 207,
+      "SoC": 10171,
+      "makespan": 207,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 42.77977350819856
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.83984375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 19528,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 65.32388888392597
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 114,
+      "SoC": 2809,
+      "makespan": 114,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.419261663220823
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.7578125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 12631,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 44.499300739727914
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.703125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 20816,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 54.980704489164054
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.6875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 29537,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 61.28681290894747
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 114,
+      "SoC": 3306,
+      "makespan": 114,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 15.56763848848641
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 120,
+      "SoC": 6526,
+      "makespan": 120,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 20.629821497015655
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 125,
+      "SoC": 10394,
+      "makespan": 125,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 27.218529700301588
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 162,
+      "SoC": 15410,
+      "makespan": 162,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 44.9128513969481
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 86,
+      "SoC": 2772,
+      "makespan": 86,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 11.395947687327862
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 5912,
+      "makespan": 113,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.686465112492442
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 116,
+      "SoC": 8677,
+      "makespan": 116,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 27.90401403233409
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 118,
+      "SoC": 12176,
+      "makespan": 118,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 34.11914228461683
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 92,
+      "SoC": 2846,
+      "makespan": 92,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.402794008143246
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 103,
+      "SoC": 5841,
+      "makespan": 103,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 21.904407595284283
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 9102,
+      "makespan": 108,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.12428707908839
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 119,
+      "SoC": 12628,
+      "makespan": 119,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 31.277784382924438
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 135,
+      "SoC": 3582,
+      "makespan": 135,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 16.824783822521567
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.984375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 7903,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 44.088045639917254
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9895833333333334,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 14508,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 56.52939087152481
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9921875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 23878,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 66.01885442528874
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 2813,
+      "makespan": 101,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.711767878383398
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 105,
+      "SoC": 6191,
+      "makespan": 105,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.685186807997525
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 9647,
+      "makespan": 107,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.889838482253253
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 136,
+      "SoC": 15304,
+      "makespan": 136,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 36.7090819189325
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 2175,
+      "makespan": 99,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.526574549265206
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 4476,
+      "makespan": 99,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 16.47915264312178
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 6655,
+      "makespan": 109,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.573061127215624
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 9262,
+      "makespan": 109,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 29.52632543258369
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 146,
+      "SoC": 3062,
+      "makespan": 146,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.469512484036386
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 147,
+      "SoC": 6682,
+      "makespan": 147,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 25.31141090299934
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 149,
+      "SoC": 10242,
+      "makespan": 149,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 35.48456296231598
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 165,
+      "SoC": 14502,
+      "makespan": 165,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 43.98956855479628
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 97,
+      "SoC": 3171,
+      "makespan": 97,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.921014927327633
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 114,
+      "SoC": 6461,
+      "makespan": 114,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.595529849641025
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 9957,
+      "makespan": 109,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.19339387305081
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 128,
+      "SoC": 14872,
+      "makespan": 128,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 34.661331973038614
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 120,
+      "SoC": 3121,
+      "makespan": 120,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 15.902299544773996
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.984375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 9298,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 42.72064566705376
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9114583333333334,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 14681,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 57.72275258693844
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.8046875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 23688,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 64.3891303613782
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 112,
+      "SoC": 2652,
+      "makespan": 112,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.3098518056795
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 116,
+      "SoC": 5738,
+      "makespan": 116,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 20.397563482634723
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 8855,
+      "makespan": 113,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.57640414033085
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 117,
+      "SoC": 12701,
+      "makespan": 117,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 30.580897455103695
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 111,
+      "SoC": 3498,
+      "makespan": 111,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 15.106413559056818
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 120,
+      "SoC": 7295,
+      "makespan": 120,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 22.577575955539942
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 144,
+      "SoC": 12925,
+      "makespan": 144,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 31.50138574000448
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 199,
+      "SoC": 21403,
+      "makespan": 199,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 50.590000295080245
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 118,
+      "SoC": 3330,
+      "makespan": 118,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 16.376857632771134
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 7004,
+      "makespan": 113,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 20.210024188272655
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 144,
+      "SoC": 11293,
+      "makespan": 144,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 32.42374935653061
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 153,
+      "SoC": 16760,
+      "makespan": 153,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 40.905799000523984
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 169,
+      "SoC": 3678,
+      "makespan": 169,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 21.734744315966964
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 174,
+      "SoC": 7993,
+      "makespan": 174,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 31.389598443172872
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9739583333333334,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 20678,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 54.21745353192091
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.62890625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 34439,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 61.28926303703338
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 3264,
+      "makespan": 101,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.898115443997085
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 122,
+      "SoC": 6881,
+      "makespan": 122,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 21.388210643082857
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 247,
+      "SoC": 15700,
+      "makespan": 247,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 52.10063116531819
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.7890625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 25676,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 65.49583262670785
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 103,
+      "SoC": 3123,
+      "makespan": 103,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.385086360387504
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 105,
+      "SoC": 6425,
+      "makespan": 105,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.589397269301116
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 123,
+      "SoC": 9980,
+      "makespan": 123,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 28.165882569737732
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 157,
+      "SoC": 14546,
+      "makespan": 157,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 43.02606332395226
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 136,
+      "SoC": 3416,
+      "makespan": 136,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 17.120176143944263
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 134,
+      "SoC": 7258,
+      "makespan": 134,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.87802394106984
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 195,
+      "SoC": 12616,
+      "makespan": 195,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 44.00970827881247
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 174,
+      "SoC": 18456,
+      "makespan": 174,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 48.917949575930834
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 2693,
+      "makespan": 96,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.686838764697313
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 102,
+      "SoC": 6124,
+      "makespan": 102,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.11286851670593
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 100,
+      "SoC": 9175,
+      "makespan": 100,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.515907152555883
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 102,
+      "SoC": 12225,
+      "makespan": 102,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 28.916841628961265
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 98,
+      "SoC": 3208,
+      "makespan": 98,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.019283078610897
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 130,
+      "SoC": 5981,
+      "makespan": 130,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 22.76443068590015
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 124,
+      "SoC": 8954,
+      "makespan": 124,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 26.61346229352057
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 140,
+      "SoC": 12220,
+      "makespan": 140,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 37.40309213474393
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 135,
+      "SoC": 4113,
+      "makespan": 135,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.62965578492731
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 141,
+      "SoC": 8357,
+      "makespan": 141,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.375123717822134
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 194,
+      "SoC": 14231,
+      "makespan": 194,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 43.832535753026605
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 214,
+      "SoC": 23100,
+      "makespan": 214,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 56.38134230580181
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 146,
+      "SoC": 4886,
+      "makespan": 146,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.778189786709845
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 159,
+      "SoC": 10361,
+      "makespan": 159,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 28.888545657508075
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 228,
+      "SoC": 18812,
+      "makespan": 228,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 48.41994788777083
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.84765625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 32156,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 64.57830699440092
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 2805,
+      "makespan": 99,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.672391884028912
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 6052,
+      "makespan": 99,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.394457679241896
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 112,
+      "SoC": 9927,
+      "makespan": 112,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 26.72802855167538
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 124,
+      "SoC": 14495,
+      "makespan": 124,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 32.41477708518505
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 110,
+      "SoC": 2834,
+      "makespan": 110,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.699618325568736
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 121,
+      "SoC": 6064,
+      "makespan": 121,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 21.43039235752076
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 173,
+      "SoC": 10784,
+      "makespan": 173,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 36.105857827700675
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 199,
+      "SoC": 18228,
+      "makespan": 199,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 46.725447966717184
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 136,
+      "SoC": 3530,
+      "makespan": 136,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.105638776905835
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 217,
+      "SoC": 9399,
+      "makespan": 217,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 35.99699083156884
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.7864583333333334,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 19566,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 55.10623992048204
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.71875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 29470,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 62.9802522752434
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 100,
+      "SoC": 2630,
+      "makespan": 100,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.309524299576879
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 97,
+      "SoC": 5347,
+      "makespan": 97,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 17.793609861284494
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 105,
+      "SoC": 9004,
+      "makespan": 105,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.11142777837813
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 130,
+      "SoC": 13405,
+      "makespan": 130,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 36.31721068453044
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 88,
+      "SoC": 2654,
+      "makespan": 88,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.183813498355448
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 94,
+      "SoC": 5555,
+      "makespan": 94,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 17.7853745194152
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 9011,
+      "makespan": 109,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.799084103666246
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 239,
+      "SoC": 17687,
+      "makespan": 239,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 61.69756541401148
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 136,
+      "SoC": 3652,
+      "makespan": 136,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 17.819381712935865
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 146,
+      "SoC": 8391,
+      "makespan": 146,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 25.524162150919437
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 174,
+      "SoC": 14744,
+      "makespan": 174,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 38.0266987811774
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.91015625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 27874,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 64.81181922368705
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 73,
+      "SoC": 2042,
+      "makespan": 73,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 9.30736275203526
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 86,
+      "SoC": 4618,
+      "makespan": 86,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 15.17735231667757
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 87,
+      "SoC": 7071,
+      "makespan": 87,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.075275473296642
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 126,
+      "SoC": 10533,
+      "makespan": 126,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 37.20309247262776
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 141,
+      "SoC": 3291,
+      "makespan": 141,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.129836970940232
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 189,
+      "SoC": 7970,
+      "makespan": 189,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 33.584094412624836
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.6770833333333334,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 22883,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 56.983393635600805
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.64453125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 33324,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 63.80216455832124
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 90,
+      "SoC": 3072,
+      "makespan": 90,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.183388950303197
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 102,
+      "SoC": 6357,
+      "makespan": 102,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 22.578352049924433
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 9533,
+      "makespan": 101,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.092852915637195
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 165,
+      "SoC": 14213,
+      "makespan": 165,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 41.472382713109255
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 98,
+      "SoC": 3042,
+      "makespan": 98,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.819908735342324
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 6294,
+      "makespan": 113,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.294382088817656
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 131,
+      "SoC": 10243,
+      "makespan": 131,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 31.091322432272136
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 126,
+      "SoC": 14058,
+      "makespan": 126,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 33.499587716534734
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 102,
+      "SoC": 3409,
+      "makespan": 102,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.603193580172956
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.7265625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 13500,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 44.704142928123474
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.8020833333333334,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 18897,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 55.90621241927147
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.703125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 27948,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 66.32251079007983
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 115,
+      "SoC": 3448,
+      "makespan": 115,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.793259092606604
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.78125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 14419,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 42.71324326004833
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.640625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 24335,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 54.89930464886129
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.50390625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 38540,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 60.78501408640295
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 182,
+      "SoC": 4529,
+      "makespan": 182,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.906878620386124
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 253,
+      "SoC": 11963,
+      "makespan": 253,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 42.821769329719245
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.7135416666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 23104,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 55.97873654868454
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.58203125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 35425,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 63.10257129278034
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 2378,
+      "makespan": 101,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.414362883195281
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 122,
+      "SoC": 5597,
+      "makespan": 122,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.51682475581765
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 143,
+      "SoC": 8606,
+      "makespan": 143,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 31.616148493252695
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 136,
+      "SoC": 12531,
+      "makespan": 136,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 34.1110160369426
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 2636,
+      "makespan": 96,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.019516672939062
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 106,
+      "SoC": 5526,
+      "makespan": 106,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.281273647211492
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 8600,
+      "makespan": 109,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.180441174656153
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 11584,
+      "makespan": 108,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 30.903752271085978
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 106,
+      "SoC": 3335,
+      "makespan": 106,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.201879933476448
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 103,
+      "SoC": 6860,
+      "makespan": 103,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.59589472413063
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 174,
+      "SoC": 11772,
+      "makespan": 174,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 35.78777931071818
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.890625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 22831,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 62.398649241775274
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 92,
+      "SoC": 2672,
+      "makespan": 92,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.508222930133343
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 5435,
+      "makespan": 109,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.294454539194703
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 8457,
+      "makespan": 101,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 22.02913655154407
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 12049,
+      "makespan": 107,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 28.099547801539302
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 103,
+      "SoC": 2704,
+      "makespan": 103,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.890299282968044
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 5639,
+      "makespan": 96,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 17.117745362222195
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 98,
+      "SoC": 8752,
+      "makespan": 98,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 21.190739389508963
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 12850,
+      "makespan": 108,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 30.32694650441408
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 100,
+      "SoC": 2766,
+      "makespan": 100,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.493002803064883
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 102,
+      "SoC": 6065,
+      "makespan": 102,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.520911624655128
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 9134,
+      "makespan": 104,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.56664120219648
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 116,
+      "SoC": 12683,
+      "makespan": 116,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 30.495210620574653
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 110,
+      "SoC": 2771,
+      "makespan": 110,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.312632542103529
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 106,
+      "SoC": 5725,
+      "makespan": 106,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.525711389258504
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 9053,
+      "makespan": 107,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 28.098466352559626
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 139,
+      "SoC": 13470,
+      "makespan": 139,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 36.9890713095665
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 90,
+      "SoC": 2703,
+      "makespan": 90,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 11.509214697405696
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 95,
+      "SoC": 5721,
+      "makespan": 95,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 17.233139916323125
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 100,
+      "SoC": 9023,
+      "makespan": 100,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.09103934559971
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 116,
+      "SoC": 12493,
+      "makespan": 116,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 31.085376518778503
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 92,
+      "SoC": 2960,
+      "makespan": 92,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 11.893362422473729
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 122,
+      "SoC": 5957,
+      "makespan": 122,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 21.226762833073735
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 9251,
+      "makespan": 113,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.885007802397013
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 120,
+      "SoC": 13079,
+      "makespan": 120,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 32.474555105902255
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 92,
+      "SoC": 3146,
+      "makespan": 92,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.305412185378373
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 93,
+      "SoC": 6131,
+      "makespan": 93,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.50625099707395
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 118,
+      "SoC": 9775,
+      "makespan": 118,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 27.46800654567778
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 125,
+      "SoC": 13815,
+      "makespan": 125,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 37.211492793634534
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 144,
+      "SoC": 4202,
+      "makespan": 144,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.11142960563302
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 149,
+      "SoC": 9246,
+      "makespan": 149,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 26.014208224602044
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 167,
+      "SoC": 15741,
+      "makespan": 167,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 36.79567582998425
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.6953125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 32844,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 62.387336019426584
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 122,
+      "SoC": 3542,
+      "makespan": 122,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 16.404350046999753
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 161,
+      "SoC": 9302,
+      "makespan": 161,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 29.070655019022524
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 191,
+      "SoC": 14885,
+      "makespan": 191,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 41.87382941599935
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 29223,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 61.21209746133536
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 110,
+      "SoC": 3166,
+      "makespan": 110,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.594468336552382
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 116,
+      "SoC": 6329,
+      "makespan": 116,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 20.40083988662809
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 130,
+      "SoC": 10311,
+      "makespan": 130,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 28.893111769109964
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 136,
+      "SoC": 14484,
+      "makespan": 136,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 36.56672037020326
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 3439,
+      "makespan": 108,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.781164027750492
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 106,
+      "SoC": 6460,
+      "makespan": 106,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.70272160694003
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 119,
+      "SoC": 10271,
+      "makespan": 119,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 25.826647214591503
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 125,
+      "SoC": 14646,
+      "makespan": 125,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 33.88050654530525
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 4237,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 34.17532766703516
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.96875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 7100,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 44.006686279550195
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9791666666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 11112,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 52.20589905139059
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.98828125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 18192,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 62.71049786824733
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 110,
+      "SoC": 2282,
+      "makespan": 110,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 15.373173675499856
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 117,
+      "SoC": 4941,
+      "makespan": 117,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 21.106358997523785
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 129,
+      "SoC": 8466,
+      "makespan": 129,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 28.498316613025963
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 163,
+      "SoC": 14177,
+      "makespan": 163,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 41.092300524003804
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 87,
+      "SoC": 2924,
+      "makespan": 87,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.21327228564769
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 5805,
+      "makespan": 96,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.587393251247704
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 8740,
+      "makespan": 96,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 22.588261579163373
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 125,
+      "SoC": 12901,
+      "makespan": 125,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 33.0062464736402
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 95,
+      "SoC": 2830,
+      "makespan": 95,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.920629914849997
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 6198,
+      "makespan": 101,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.29739892296493
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 105,
+      "SoC": 9129,
+      "makespan": 105,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.317681728862226
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 125,
+      "SoC": 13165,
+      "makespan": 125,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 35.921934843063354
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 2641,
+      "makespan": 107,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.715884076431394
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 105,
+      "SoC": 5472,
+      "makespan": 105,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.077758877538145
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 111,
+      "SoC": 8722,
+      "makespan": 111,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.3044824777171
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 130,
+      "SoC": 13059,
+      "makespan": 130,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 33.102306662127376
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 149,
+      "SoC": 4259,
+      "makespan": 149,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.523803503252566
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 150,
+      "SoC": 8771,
+      "makespan": 150,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 25.23328771535307
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9895833333333334,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 17206,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 57.00719238258898
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.71875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 30073,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 64.40303960349411
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 92,
+      "SoC": 2671,
+      "makespan": 92,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.999997322447598
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 103,
+      "SoC": 5691,
+      "makespan": 103,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.732601385563612
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 8786,
+      "makespan": 101,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.484023299999535
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 124,
+      "SoC": 12819,
+      "makespan": 124,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 32.01335976552218
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 112,
+      "SoC": 3074,
+      "makespan": 112,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 15.003253916278481
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 117,
+      "SoC": 6042,
+      "makespan": 117,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 21.084093127399683
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 120,
+      "SoC": 9368,
+      "makespan": 120,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 26.713558968156576
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 120,
+      "SoC": 13693,
+      "makespan": 120,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 30.994630719535053
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 100,
+      "SoC": 2869,
+      "makespan": 100,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.609590500593185
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 112,
+      "SoC": 6040,
+      "makespan": 112,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 20.60697104036808
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 121,
+      "SoC": 9870,
+      "makespan": 121,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 25.574748649261892
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 122,
+      "SoC": 14308,
+      "makespan": 122,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 33.38364905770868
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 97,
+      "SoC": 2850,
+      "makespan": 97,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.896274604834616
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 5749,
+      "makespan": 101,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.22847604751587
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 103,
+      "SoC": 9154,
+      "makespan": 103,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.179880492389202
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 116,
+      "SoC": 13562,
+      "makespan": 116,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 30.49751845560968
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 97,
+      "SoC": 2516,
+      "makespan": 97,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.18444871623069
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 97,
+      "SoC": 5322,
+      "makespan": 97,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 17.418459105305374
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 103,
+      "SoC": 8506,
+      "makespan": 103,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.007122243754566
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 147,
+      "SoC": 13471,
+      "makespan": 147,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 38.08240019902587
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 3665,
+      "makespan": 107,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.70690135192126
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 129,
+      "SoC": 8015,
+      "makespan": 129,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.173539185896516
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 175,
+      "SoC": 14260,
+      "makespan": 175,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 36.90515273530036
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.65625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 35925,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 64.49517358094454
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 111,
+      "SoC": 3043,
+      "makespan": 111,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.813857022672892
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 114,
+      "SoC": 6587,
+      "makespan": 114,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 20.21386323682964
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 123,
+      "SoC": 10447,
+      "makespan": 123,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 26.871953728608787
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 132,
+      "SoC": 14230,
+      "makespan": 132,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 34.00355890579522
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 2819,
+      "makespan": 104,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.005913857370615
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 110,
+      "SoC": 6511,
+      "makespan": 110,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 20.477235278114676
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 9553,
+      "makespan": 109,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 25.298759842291474
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 127,
+      "SoC": 13859,
+      "makespan": 127,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 34.412976583465934
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 89,
+      "SoC": 2909,
+      "makespan": 89,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 11.879695478826761
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 89,
+      "SoC": 5805,
+      "makespan": 89,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 16.01790444459766
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 97,
+      "SoC": 9026,
+      "makespan": 97,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 22.73243577685207
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 12758,
+      "makespan": 104,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 27.81979192700237
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 2931,
+      "makespan": 101,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.922697049565613
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 6256,
+      "makespan": 101,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.57884803507477
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 105,
+      "SoC": 10035,
+      "makespan": 105,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.513391811400652
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 183,
+      "SoC": 17006,
+      "makespan": 183,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 47.210096668452024
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 123,
+      "SoC": 3537,
+      "makespan": 123,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 16.722165177576244
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 131,
+      "SoC": 7865,
+      "makespan": 131,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 22.614456601440907
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 219,
+      "SoC": 15135,
+      "makespan": 219,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 48.09542065951973
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.7265625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 30013,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 66.183857569471
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 3146,
+      "makespan": 101,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.195693727582693
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 127,
+      "SoC": 6610,
+      "makespan": 127,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.485092581249774
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 131,
+      "SoC": 10642,
+      "makespan": 131,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 30.69097587186843
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 173,
+      "SoC": 17018,
+      "makespan": 173,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 46.176914560608566
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 126,
+      "SoC": 4038,
+      "makespan": 126,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 17.90612221043557
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 215,
+      "SoC": 11084,
+      "makespan": 215,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 36.7855887580663
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.7135416666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 22077,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 54.43328654207289
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.69140625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 31062,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 62.80808509606868
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 102,
+      "SoC": 3098,
+      "makespan": 102,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.976133693009615
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 103,
+      "SoC": 6769,
+      "makespan": 103,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.8043506257236
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 110,
+      "SoC": 10827,
+      "makespan": 110,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 25.168322077021003
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 119,
+      "SoC": 15453,
+      "makespan": 119,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 32.59243771061301
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 2589,
+      "makespan": 96,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.130422652699053
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 119,
+      "SoC": 5438,
+      "makespan": 119,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 21.602331881411374
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 129,
+      "SoC": 9035,
+      "makespan": 129,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 30.629383188672364
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 122,
+      "SoC": 12117,
+      "makespan": 122,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 33.37968026753515
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 121,
+      "SoC": 3876,
+      "makespan": 121,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 16.191509287804365
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 133,
+      "SoC": 8334,
+      "makespan": 133,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.82888338342309
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 135,
+      "SoC": 12760,
+      "makespan": 135,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 29.909015042707324
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 144,
+      "SoC": 18174,
+      "makespan": 144,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 38.61221629194915
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 174,
+      "SoC": 4137,
+      "makespan": 174,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.40096495859325
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 177,
+      "SoC": 8920,
+      "makespan": 177,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 30.994209334254265
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 209,
+      "SoC": 15192,
+      "makespan": 209,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 45.090344939380884
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.96484375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 28015,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 62.91838268376887
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 128,
+      "SoC": 3036,
+      "makespan": 128,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 16.077259432524443
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 138,
+      "SoC": 7425,
+      "makespan": 138,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 26.2038221526891
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 166,
+      "SoC": 12043,
+      "makespan": 166,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 35.887140952050686
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 252,
+      "SoC": 22538,
+      "makespan": 252,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 61.81589939352125
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 173,
+      "SoC": 3978,
+      "makespan": 173,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 21.3068719021976
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 195,
+      "SoC": 8877,
+      "makespan": 195,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 35.41743187233806
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 244,
+      "SoC": 16640,
+      "makespan": 244,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 53.794661082327366
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.98828125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 25009,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 64.27557346131653
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 97,
+      "SoC": 2801,
+      "makespan": 97,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.388752210885286
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 117,
+      "SoC": 6118,
+      "makespan": 117,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 20.999287454411387
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 112,
+      "SoC": 9617,
+      "makespan": 112,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 25.478821092285216
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 128,
+      "SoC": 14178,
+      "makespan": 128,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 32.39681577961892
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 137,
+      "SoC": 3985,
+      "makespan": 137,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.414537160657346
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 161,
+      "SoC": 8085,
+      "makespan": 161,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 28.708540582098067
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 185,
+      "SoC": 14064,
+      "makespan": 185,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 40.50264537893236
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.984375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 26588,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 64.27979888115078
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 149,
+      "SoC": 3947,
+      "makespan": 149,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.708851074799895
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 148,
+      "SoC": 7940,
+      "makespan": 148,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 25.88080809172243
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 175,
+      "SoC": 13177,
+      "makespan": 175,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 38.6226787250489
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 221,
+      "SoC": 20816,
+      "makespan": 221,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 55.01562920305878
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 123,
+      "SoC": 3448,
+      "makespan": 123,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 16.501050567254424
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 120,
+      "SoC": 7057,
+      "makespan": 120,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 21.00246768258512
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 177,
+      "SoC": 12568,
+      "makespan": 177,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 40.876180017367005
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 180,
+      "SoC": 17744,
+      "makespan": 180,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 46.876508257351816
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 111,
+      "SoC": 3098,
+      "makespan": 111,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.970615270547569
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 126,
+      "SoC": 6379,
+      "makespan": 126,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.62397898826748
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 133,
+      "SoC": 9830,
+      "makespan": 133,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 29.288952478207648
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 159,
+      "SoC": 15296,
+      "makespan": 159,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 42.4185986565426
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 135,
+      "SoC": 3131,
+      "makespan": 135,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.113470129668713
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 139,
+      "SoC": 6820,
+      "makespan": 139,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.51752492878586
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 155,
+      "SoC": 11807,
+      "makespan": 155,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 32.51429160870612
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 170,
+      "SoC": 18154,
+      "makespan": 170,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 43.88640709873289
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 2648,
+      "makespan": 101,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.903448696248233
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 5901,
+      "makespan": 104,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.194838711991906
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 117,
+      "SoC": 9350,
+      "makespan": 117,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 25.693669042550027
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 133,
+      "SoC": 13912,
+      "makespan": 133,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 33.30073956493288
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 2761,
+      "makespan": 113,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.701879491098225
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 5773,
+      "makespan": 113,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 20.013661990873516
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 117,
+      "SoC": 8683,
+      "makespan": 117,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 25.601888801902533
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 116,
+      "SoC": 12039,
+      "makespan": 116,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 31.57032296154648
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 3142,
+      "makespan": 108,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.525239486247301
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 120,
+      "SoC": 6461,
+      "makespan": 120,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 22.52947906497866
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 119,
+      "SoC": 9724,
+      "makespan": 119,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 26.612489327788353
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 129,
+      "SoC": 13368,
+      "makespan": 129,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 33.40934486873448
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 92,
+      "SoC": 2220,
+      "makespan": 92,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 11.888973750174046
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 102,
+      "SoC": 5102,
+      "makespan": 102,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.896155384369195
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 8171,
+      "makespan": 107,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.306564742699265
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 161,
+      "SoC": 13455,
+      "makespan": 161,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 39.91429949738085
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 116,
+      "SoC": 3129,
+      "makespan": 116,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.676412167958915
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 122,
+      "SoC": 6637,
+      "makespan": 122,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 21.311604224145412
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 139,
+      "SoC": 10593,
+      "makespan": 139,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 31.668584760278463
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 149,
+      "SoC": 15042,
+      "makespan": 149,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 38.59806147869676
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 97,
+      "SoC": 2936,
+      "makespan": 97,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.305079753510654
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 5859,
+      "makespan": 96,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 16.40434098150581
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 9018,
+      "makespan": 96,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.378690725192428
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 103,
+      "SoC": 12586,
+      "makespan": 103,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 27.91336732637137
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 149,
+      "SoC": 3615,
+      "makespan": 149,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 20.430565169081092
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 172,
+      "SoC": 8604,
+      "makespan": 172,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 30.504529955796897
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 178,
+      "SoC": 12215,
+      "makespan": 178,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 40.50275146216154
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.984375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 21084,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 68.3144394280389
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 142,
+      "SoC": 3939,
+      "makespan": 142,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.91770765557885
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.8359375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 12450,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 45.86226306390017
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.6770833333333334,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 22979,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 56.12210876587778
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.640625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 32394,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 63.2815265385434
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 128,
+      "SoC": 2756,
+      "makespan": 128,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 16.508659499697387
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 132,
+      "SoC": 6413,
+      "makespan": 132,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.515836460515857
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 162,
+      "SoC": 11443,
+      "makespan": 162,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 36.426992545835674
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 206,
+      "SoC": 20130,
+      "makespan": 206,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 54.17333109676838
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 98,
+      "SoC": 2948,
+      "makespan": 98,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.668805887922645
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 115,
+      "SoC": 6490,
+      "makespan": 115,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 20.434724788181484
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 128,
+      "SoC": 10260,
+      "makespan": 128,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 28.903674537315965
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 125,
+      "SoC": 14660,
+      "makespan": 125,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 32.98493058606982
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 3085,
+      "makespan": 109,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.587217670865357
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 115,
+      "SoC": 6610,
+      "makespan": 115,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 20.39672673959285
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 140,
+      "SoC": 11925,
+      "makespan": 140,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 31.12947420682758
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 0.78125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 28148,
+      "makespan": 256,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 64.21293391752988
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 97,
+      "SoC": 2624,
+      "makespan": 97,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.371710021980107
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 6013,
+      "makespan": 104,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.097546475939453
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 9192,
+      "makespan": 113,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 25.199105866253376
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 115,
+      "SoC": 13042,
+      "makespan": 115,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 32.31587553862482
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 2936,
+      "makespan": 96,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.497059118002653
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 5977,
+      "makespan": 108,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.881962097249925
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 111,
+      "SoC": 9110,
+      "makespan": 111,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.927046412602067
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 125,
+      "SoC": 14859,
+      "makespan": 125,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 32.9767199633643
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 94,
+      "SoC": 2771,
+      "makespan": 94,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.288113734684885
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 98,
+      "SoC": 6400,
+      "makespan": 98,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 16.79861797671765
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 112,
+      "SoC": 9680,
+      "makespan": 112,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 28.796715463511646
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 13883,
+      "makespan": 113,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 29.700128202326596
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 2578,
+      "makespan": 104,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.897742022760212
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 119,
+      "SoC": 4989,
+      "makespan": 119,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 20.5232787495479
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 118,
+      "SoC": 8526,
+      "makespan": 118,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 25.62888432946056
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 129,
+      "SoC": 12698,
+      "makespan": 129,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 32.28549820743501
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 86,
+      "SoC": 2714,
+      "makespan": 86,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 10.87303828727454
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 102,
+      "SoC": 5616,
+      "makespan": 102,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.024921073578298
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 105,
+      "SoC": 8401,
+      "makespan": 105,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.317309447564185
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 12055,
+      "makespan": 107,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 27.2178165121004
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 3036,
+      "makespan": 99,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.91069686692208
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 115,
+      "SoC": 6313,
+      "makespan": 115,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 21.391854740679264
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 126,
+      "SoC": 10549,
+      "makespan": 126,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 27.98536343872547
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 201,
+      "SoC": 15898,
+      "makespan": 201,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 48.90198796894401
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 3069,
+      "makespan": 107,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.488267846405506
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 6529,
+      "makespan": 108,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.89217754546553
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 125,
+      "SoC": 10954,
+      "makespan": 125,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 27.794979266822338
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 191,
+      "SoC": 20443,
+      "makespan": 191,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 48.892652582377195
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 2797,
+      "makespan": 101,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.821516908705235
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 5882,
+      "makespan": 104,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.398522715084255
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 106,
+      "SoC": 8875,
+      "makespan": 106,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 23.004396807402372
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 111,
+      "SoC": 12738,
+      "makespan": 111,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 28.027529114857316
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 2319,
+      "makespan": 107,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.087572636082768
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 4904,
+      "makespan": 107,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.327295696362853
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 7433,
+      "makespan": 113,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 25.43266607169062
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 126,
+      "SoC": 10357,
+      "makespan": 126,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 33.4000888755545
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 112,
+      "SoC": 3423,
+      "makespan": 112,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 15.403311957605183
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 149,
+      "SoC": 6866,
+      "makespan": 149,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 28.38293495029211
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 154,
+      "SoC": 11748,
+      "makespan": 154,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 33.89413048885763
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 175,
+      "SoC": 17091,
+      "makespan": 175,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 45.180970712564886
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 90,
+      "SoC": 2136,
+      "makespan": 90,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.060892056673765
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 100,
+      "SoC": 4912,
+      "makespan": 100,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 17.093596065416932
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 120,
+      "SoC": 8051,
+      "makespan": 120,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 28.189376631751657
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 141,
+      "SoC": 11756,
+      "makespan": 141,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 36.28318854328245
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_00",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 90,
+      "SoC": 2613,
+      "makespan": 90,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 11.682808130048215
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 93,
+      "SoC": 5514,
+      "makespan": 93,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 17.392694705165923
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 105,
+      "SoC": 8632,
+      "makespan": 105,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.796737851575017
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 114,
+      "SoC": 12424,
+      "makespan": 114,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 29.49801730643958
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_01",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 84,
+      "SoC": 2206,
+      "makespan": 84,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 11.111823411658406
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 93,
+      "SoC": 5222,
+      "makespan": 93,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.105192988179624
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 106,
+      "SoC": 7906,
+      "makespan": 106,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.334578968584538
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 103,
+      "SoC": 11497,
+      "makespan": 103,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 28.18262627720833
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_02",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 2999,
+      "makespan": 109,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.822900421917439
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 110,
+      "SoC": 6428,
+      "makespan": 110,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.799633543007076
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 129,
+      "SoC": 11543,
+      "makespan": 129,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 26.823595793917775
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 160,
+      "SoC": 16961,
+      "makespan": 160,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 39.706941281445324
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_03",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 3245,
+      "makespan": 109,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 14.803896916098893
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 116,
+      "SoC": 6575,
+      "makespan": 116,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 20.408917121589184
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 142,
+      "SoC": 10640,
+      "makespan": 142,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 32.601111822761595
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 131,
+      "SoC": 14628,
+      "makespan": 131,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 34.01731596607715
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_04",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 3255,
+      "makespan": 109,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.920674561522901
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 6686,
+      "makespan": 101,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 17.921102544292808
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 10508,
+      "makespan": 107,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.68893746379763
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 121,
+      "SoC": 15575,
+      "makespan": 121,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 33.0774212628603
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_05",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 2786,
+      "makespan": 96,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.911343407817185
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 102,
+      "SoC": 5746,
+      "makespan": 102,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 17.291320024058223
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 9488,
+      "makespan": 107,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 25.397490517236292
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 123,
+      "SoC": 14018,
+      "makespan": 123,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 31.399561288766563
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_06",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 83,
+      "SoC": 1820,
+      "makespan": 83,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 10.899241419509053
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 98,
+      "SoC": 3949,
+      "makespan": 98,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 16.808161484077573
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 106,
+      "SoC": 6801,
+      "makespan": 106,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 22.307581579312682
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 9710,
+      "makespan": 107,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 25.37124385498464
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_07",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 2790,
+      "makespan": 101,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.125666012987494
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 123,
+      "SoC": 5803,
+      "makespan": 123,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 21.21852943021804
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 124,
+      "SoC": 8664,
+      "makespan": 124,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 26.247324292548
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 125,
+      "SoC": 12503,
+      "makespan": 125,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 28.11344145797193
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_08",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 89,
+      "SoC": 3041,
+      "makespan": 89,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.095006603747606
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 6345,
+      "makespan": 107,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.09196676313877
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 120,
+      "SoC": 10388,
+      "makespan": 120,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.51262745913118
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 165,
+      "SoC": 15975,
+      "makespan": 165,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 29.1884696893394
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_09",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 124,
+      "SoC": 3539,
+      "makespan": 124,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 16.601907530799508
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 125,
+      "SoC": 7194,
+      "makespan": 125,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 20.73298537172377
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 150,
+      "SoC": 11146,
+      "makespan": 150,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 25.204967457801104
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 180,
+      "SoC": 17974,
+      "makespan": 180,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 28.847156898118556
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_10",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 137,
+      "SoC": 3610,
+      "makespan": 137,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 16.99963622353971
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 150,
+      "SoC": 8011,
+      "makespan": 150,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 22.112984927371144
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 159,
+      "SoC": 12505,
+      "makespan": 159,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 24.473149865865707
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 193,
+      "SoC": 18305,
+      "makespan": 193,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 28.44546476379037
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_11",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 91,
+      "SoC": 2830,
+      "makespan": 91,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.731003236956894
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 100,
+      "SoC": 6028,
+      "makespan": 100,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 16.478053997270763
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 8569,
+      "makespan": 101,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.036224834620953
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 11956,
+      "makespan": 101,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 19.04398165177554
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_12",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 100,
+      "SoC": 3026,
+      "makespan": 100,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.40796893183142
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 6365,
+      "makespan": 101,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 15.018589936196804
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 105,
+      "SoC": 9290,
+      "makespan": 105,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 16.638001400977373
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 120,
+      "SoC": 12669,
+      "makespan": 120,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 18.274995408020914
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_13",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 105,
+      "SoC": 2699,
+      "makespan": 105,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 11.53354307077825
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 6279,
+      "makespan": 113,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 13.089330155402422
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 157,
+      "SoC": 10937,
+      "makespan": 157,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 15.892950741574168
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 194,
+      "SoC": 17671,
+      "makespan": 194,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 20.368405097164214
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_14",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 133,
+      "SoC": 3303,
+      "makespan": 133,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 8.032138091512024
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 138,
+      "SoC": 6649,
+      "makespan": 138,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 9.871723252348602
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 145,
+      "SoC": 10184,
+      "makespan": 145,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 12.197288657538593
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 159,
+      "SoC": 15138,
+      "makespan": 159,
+      "a_collisions": 0,
+      "o_collisions": 0,
+      "runtime": 15.373305169865489
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_15",
+      "seed": 0
+    },
+    "algorithm": "MAGAT+"
+  }
+]

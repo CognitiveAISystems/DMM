@@ -1,0 +1,287 @@
+{
+  "n": 1000,
+  "seed": 0,
+  "columns": [
+    "0.0",
+    "0.2",
+    "0.4",
+    "0.6",
+    "1.0"
+  ],
+  "results": {
+    "0.0": {
+      "k_seeds": 5,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.243,
+            0.244,
+            0.246,
+            0.25,
+            0.242
+          ],
+          "mean": 0.24500000000000002,
+          "ci_half_width": 0.003925856849147715
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.26,
+            0.256,
+            0.255,
+            0.25,
+            0.259
+          ],
+          "mean": 0.25599999999999995,
+          "ci_half_width": 0.0048876523607965456
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.231,
+            0.233,
+            0.233,
+            0.233,
+            0.235
+          ],
+          "mean": 0.233,
+          "ci_half_width": 0.0017556965569254736
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.266,
+            0.267,
+            0.266,
+            0.267,
+            0.264
+          ],
+          "mean": 0.266,
+          "ci_half_width": 0.0015204778196343425
+        }
+      }
+    },
+    "0.2": {
+      "k_seeds": 5,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.305,
+            0.305,
+            0.38,
+            0.356,
+            0.267
+          ],
+          "mean": 0.3226,
+          "ci_half_width": 0.0559389830669096
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.373,
+            0.383,
+            0.319,
+            0.333,
+            0.405
+          ],
+          "mean": 0.3626,
+          "ci_half_width": 0.04432568818371577
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.141,
+            0.146,
+            0.145,
+            0.145,
+            0.157
+          ],
+          "mean": 0.14679999999999999,
+          "ci_half_width": 0.00746945207093533
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.181,
+            0.166,
+            0.156,
+            0.166,
+            0.171
+          ],
+          "mean": 0.168,
+          "ci_half_width": 0.011276165305634708
+        }
+      }
+    },
+    "0.4": {
+      "k_seeds": 5,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.494,
+            0.376,
+            0.419,
+            0.386,
+            0.444
+          ],
+          "mean": 0.42379999999999995,
+          "ci_half_width": 0.059125541694262713
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.404,
+            0.427,
+            0.44,
+            0.45,
+            0.383
+          ],
+          "mean": 0.4208,
+          "ci_half_width": 0.03383305163652844
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.053,
+            0.085,
+            0.067,
+            0.077,
+            0.075
+          ],
+          "mean": 0.0714,
+          "ci_half_width": 0.015041719561273571
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.049,
+            0.112,
+            0.074,
+            0.087,
+            0.098
+          ],
+          "mean": 0.08399999999999999,
+          "ci_half_width": 0.0298597482105928
+        }
+      }
+    },
+    "0.6": {
+      "k_seeds": 5,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.488,
+            0.469,
+            0.411,
+            0.425,
+            0.525
+          ],
+          "mean": 0.4636,
+          "ci_half_width": 0.057735461291653335
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.428,
+            0.448,
+            0.491,
+            0.477,
+            0.394
+          ],
+          "mean": 0.4476,
+          "ci_half_width": 0.04810256132224144
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.042,
+            0.037,
+            0.053,
+            0.044,
+            0.04
+          ],
+          "mean": 0.0432,
+          "ci_half_width": 0.007520859780636784
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.042,
+            0.046,
+            0.045,
+            0.054,
+            0.041
+          ],
+          "mean": 0.0456,
+          "ci_half_width": 0.006366669911342975
+        }
+      }
+    },
+    "1.0": {
+      "k_seeds": 5,
+      "rows": {
+        "(wait, left)": {
+          "label": "(wait, left)   [B_yields, valid]",
+          "per_seed_freq": [
+            0.457,
+            0.502,
+            0.547,
+            0.508,
+            0.433
+          ],
+          "mean": 0.4894,
+          "ci_half_width": 0.05570429811208468
+        },
+        "(right, wait)": {
+          "label": "(right, wait)  [A_yields, valid]",
+          "per_seed_freq": [
+            0.446,
+            0.453,
+            0.389,
+            0.415,
+            0.505
+          ],
+          "mean": 0.44160000000000005,
+          "ci_half_width": 0.054267782524809315
+        },
+        "(wait, wait)": {
+          "label": "(wait, wait)   [deadlock, invalid]",
+          "per_seed_freq": [
+            0.09,
+            0.039,
+            0.022,
+            0.052,
+            0.016
+          ],
+          "mean": 0.04379999999999999,
+          "ci_half_width": 0.0365800546833927
+        },
+        "(right, left)": {
+          "label": "(right, left)  [collision, invalid]",
+          "per_seed_freq": [
+            0.007,
+            0.005,
+            0.001,
+            0.025,
+            0.033
+          ],
+          "mean": 0.0142,
+          "ci_half_width": 0.017345002480253495
+        }
+      },
+      "other": {
+        "(wait, right)": 0.0002,
+        "(down, wait)": 0.0038,
+        "(left, wait)": 0.0032,
+        "(up, wait)": 0.0026,
+        "(down, left)": 0.0006,
+        "(left, left)": 0.0002,
+        "(up, left)": 0.0004
+      }
+    }
+  }
+}

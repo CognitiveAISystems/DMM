@@ -1,0 +1,63 @@
+{
+  "table": "corridor_depth_composition",
+  "paper_label": "tab:corridor-depth-composition",
+  "unit": "percent",
+  "precision_decimals": 1,
+  "k_train": 4,
+  "n_per_seed": 1000,
+  "k_seeds": 5,
+  "rows": [
+    {
+      "k_test": 2,
+      "p_valid": {
+        "mean": 83.7,
+        "ci": 2.7
+      },
+      "WL": 41.7,
+      "RW": 42.1,
+      "Invalid": {
+        "mean": 16.3,
+        "ci": 2.7
+      }
+    },
+    {
+      "k_test": 4,
+      "p_valid": {
+        "mean": 94.8,
+        "ci": 1.1
+      },
+      "WL": 51.4,
+      "RW": 43.4,
+      "Invalid": {
+        "mean": 5.2,
+        "ci": 1.1
+      }
+    },
+    {
+      "k_test": 8,
+      "p_valid": {
+        "mean": 99.6,
+        "ci": 0.4
+      },
+      "WL": 52.7,
+      "RW": 46.9,
+      "Invalid": {
+        "mean": 0.4,
+        "ci": 0.4
+      }
+    },
+    {
+      "k_test": 12,
+      "p_valid": {
+        "mean": 100.0,
+        "ci": 0.1
+      },
+      "WL": 52.9,
+      "RW": 47.0,
+      "Invalid": {
+        "mean": 0.0,
+        "ci": 0.1
+      }
+    }
+  ]
+}

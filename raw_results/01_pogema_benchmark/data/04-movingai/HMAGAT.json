@@ -1,0 +1,8194 @@
+[
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 126,
+      "SoC": 3327,
+      "makespan": 126,
+      "runtime": 7.818738179979846
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 136,
+      "SoC": 6792,
+      "makespan": 136,
+      "runtime": 9.061478869989514
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 182,
+      "SoC": 11111,
+      "makespan": 182,
+      "runtime": 17.188517515081912
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.984375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 15639,
+      "makespan": 256,
+      "runtime": 30.926725085126236
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 161,
+      "SoC": 4517,
+      "makespan": 161,
+      "runtime": 9.870243210112676
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 165,
+      "SoC": 9106,
+      "makespan": 165,
+      "runtime": 13.648908394854516
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 183,
+      "SoC": 14188,
+      "makespan": 183,
+      "runtime": 18.954902979778126
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 218,
+      "SoC": 23324,
+      "makespan": 218,
+      "runtime": 26.15928182681091
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 105,
+      "SoC": 2791,
+      "makespan": 105,
+      "runtime": 13.383129216963425
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 5834,
+      "makespan": 107,
+      "runtime": 16.526052525965497
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 8643,
+      "makespan": 108,
+      "runtime": 19.579320859164
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 145,
+      "SoC": 12926,
+      "makespan": 145,
+      "runtime": 29.758139581186697
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 2866,
+      "makespan": 99,
+      "runtime": 5.078415238996968
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 178,
+      "SoC": 6329,
+      "makespan": 178,
+      "runtime": 12.247136954916641
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 142,
+      "SoC": 10666,
+      "makespan": 142,
+      "runtime": 12.908260372933
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.72265625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 27250,
+      "makespan": 256,
+      "runtime": 28.38604043214582
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 97,
+      "SoC": 2743,
+      "makespan": 97,
+      "runtime": 11.859653919003904
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 5358,
+      "makespan": 99,
+      "runtime": 14.468822370050475
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 144,
+      "SoC": 9333,
+      "makespan": 144,
+      "runtime": 20.73645204701461
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.89453125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 17420,
+      "makespan": 256,
+      "runtime": 35.73662844998762
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 3468,
+      "makespan": 109,
+      "runtime": 5.332070877077058
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 122,
+      "SoC": 7049,
+      "makespan": 122,
+      "runtime": 8.600904618855566
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 204,
+      "SoC": 15052,
+      "makespan": 204,
+      "runtime": 17.9881808150094
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.76171875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 30533,
+      "makespan": 256,
+      "runtime": 29.04140676301904
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 3307,
+      "makespan": 108,
+      "runtime": 4.010522400029004
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 110,
+      "SoC": 7048,
+      "makespan": 110,
+      "runtime": 5.620306501165032
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 231,
+      "SoC": 13261,
+      "makespan": 231,
+      "runtime": 15.588703306159005
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.8125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 23991,
+      "makespan": 256,
+      "runtime": 23.40885406709276
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 122,
+      "SoC": 2338,
+      "makespan": 122,
+      "runtime": 3.2994505390524864
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 122,
+      "SoC": 4839,
+      "makespan": 122,
+      "runtime": 5.863440765999258
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 229,
+      "SoC": 8790,
+      "makespan": 229,
+      "runtime": 15.46426746994257
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 135,
+      "SoC": 10806,
+      "makespan": 135,
+      "runtime": 12.749289988074452
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 85,
+      "SoC": 2010,
+      "makespan": 85,
+      "runtime": 7.392518831882626
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 85,
+      "SoC": 4110,
+      "makespan": 85,
+      "runtime": 9.145243276841938
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 98,
+      "SoC": 6711,
+      "makespan": 98,
+      "runtime": 12.168167414143682
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 184,
+      "SoC": 10318,
+      "makespan": 184,
+      "runtime": 21.974035267950967
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 177,
+      "SoC": 4392,
+      "makespan": 177,
+      "runtime": 4.875992959132418
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 180,
+      "SoC": 8205,
+      "makespan": 180,
+      "runtime": 8.656598218018189
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 190,
+      "SoC": 12237,
+      "makespan": 190,
+      "runtime": 13.463948679156601
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 202,
+      "SoC": 18072,
+      "makespan": 202,
+      "runtime": 22.367848583031446
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 146,
+      "SoC": 4428,
+      "makespan": 146,
+      "runtime": 13.190176055999473
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 192,
+      "SoC": 10220,
+      "makespan": 192,
+      "runtime": 19.555018714163452
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.890625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 22152,
+      "makespan": 256,
+      "runtime": 28.80643679201603
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.73046875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 35238,
+      "makespan": 256,
+      "runtime": 35.2817314050626
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 100,
+      "SoC": 2445,
+      "makespan": 100,
+      "runtime": 11.447059588972479
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 106,
+      "SoC": 5066,
+      "makespan": 106,
+      "runtime": 14.663532741833478
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.8125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 14801,
+      "makespan": 256,
+      "runtime": 30.03680495498702
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.83203125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 19196,
+      "makespan": 256,
+      "runtime": 35.23728769016452
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 111,
+      "SoC": 2810,
+      "makespan": 111,
+      "runtime": 9.470278827939183
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.765625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 12061,
+      "makespan": 256,
+      "runtime": 16.881962685845792
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.6875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 21004,
+      "makespan": 256,
+      "runtime": 21.90434058988467
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.703125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 27159,
+      "makespan": 256,
+      "runtime": 27.842334426939487
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 114,
+      "SoC": 3296,
+      "makespan": 114,
+      "runtime": 3.4122267321217805
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 136,
+      "SoC": 6479,
+      "makespan": 136,
+      "runtime": 6.783264114987105
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 123,
+      "SoC": 9916,
+      "makespan": 123,
+      "runtime": 9.170971183106303
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 127,
+      "SoC": 14138,
+      "makespan": 127,
+      "runtime": 12.72910152701661
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 86,
+      "SoC": 2733,
+      "makespan": 86,
+      "runtime": 3.003238937119022
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 115,
+      "SoC": 5766,
+      "makespan": 115,
+      "runtime": 6.380175726022571
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 120,
+      "SoC": 8595,
+      "makespan": 120,
+      "runtime": 9.490378411021084
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 117,
+      "SoC": 11562,
+      "makespan": 117,
+      "runtime": 12.597639407031238
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 92,
+      "SoC": 2825,
+      "makespan": 92,
+      "runtime": 2.8249435601755977
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Berlin_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 5568,
+      "makespan": 99,
+      "runtime": 5.182177914073691
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Berlin_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 8505,
+      "makespan": 99,
+      "runtime": 7.539272685069591
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Berlin_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 103,
+      "SoC": 11766,
+      "makespan": 103,
+      "runtime": 10.242306356085464
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Berlin_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 128,
+      "SoC": 3471,
+      "makespan": 128,
+      "runtime": 9.730477086035535
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.984375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 7647,
+      "makespan": 256,
+      "runtime": 18.740780072985217
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9010416666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 18674,
+      "makespan": 256,
+      "runtime": 25.663320612860844
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.69921875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 30070,
+      "makespan": 256,
+      "runtime": 33.557330635841936
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 2806,
+      "makespan": 99,
+      "runtime": 11.341000356944278
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 6078,
+      "makespan": 107,
+      "runtime": 13.862920593935996
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.8854166666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 13764,
+      "makespan": 256,
+      "runtime": 26.57485212595202
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.8125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 22693,
+      "makespan": 256,
+      "runtime": 33.70411661709659
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 2123,
+      "makespan": 99,
+      "runtime": 2.9532661149278283
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 4403,
+      "makespan": 99,
+      "runtime": 5.187027279986069
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 100,
+      "SoC": 6406,
+      "makespan": 100,
+      "runtime": 7.614864974049851
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 121,
+      "SoC": 8974,
+      "makespan": 121,
+      "runtime": 11.996726278914139
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 145,
+      "SoC": 2955,
+      "makespan": 145,
+      "runtime": 10.255891113076359
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 147,
+      "SoC": 6220,
+      "makespan": 147,
+      "runtime": 13.76171311410144
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 148,
+      "SoC": 9693,
+      "makespan": 148,
+      "runtime": 17.481680356897414
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.99609375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 14003,
+      "makespan": 256,
+      "runtime": 31.123096386203542
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 3143,
+      "makespan": 96,
+      "runtime": 11.128883823053911
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 119,
+      "SoC": 6327,
+      "makespan": 119,
+      "runtime": 14.23915106500499
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 112,
+      "SoC": 9447,
+      "makespan": 112,
+      "runtime": 16.87244612700306
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 121,
+      "SoC": 13704,
+      "makespan": 121,
+      "runtime": 20.44558719196357
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 121,
+      "SoC": 3041,
+      "makespan": 121,
+      "runtime": 10.044966118875891
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 205,
+      "SoC": 7656,
+      "makespan": 205,
+      "runtime": 16.322402599966154
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.734375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 19014,
+      "makespan": 256,
+      "runtime": 24.484627587953582
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.56640625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 34521,
+      "makespan": 256,
+      "runtime": 31.41295240703039
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 115,
+      "SoC": 2570,
+      "makespan": 115,
+      "runtime": 3.1412682209629565
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 5468,
+      "makespan": 113,
+      "runtime": 5.55891261389479
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 112,
+      "SoC": 8556,
+      "makespan": 112,
+      "runtime": 8.025569327175617
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.98828125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 16792,
+      "makespan": 256,
+      "runtime": 22.54561344604008
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 114,
+      "SoC": 3466,
+      "makespan": 114,
+      "runtime": 3.1664847610518336
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 115,
+      "SoC": 7261,
+      "makespan": 115,
+      "runtime": 5.7600806900300086
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 220,
+      "SoC": 15841,
+      "makespan": 220,
+      "runtime": 15.307618381921202
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 190,
+      "SoC": 20760,
+      "makespan": 190,
+      "runtime": 18.157028468092903
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 3279,
+      "makespan": 113,
+      "runtime": 10.70097915106453
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 6756,
+      "makespan": 113,
+      "runtime": 13.41347429016605
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 163,
+      "SoC": 12087,
+      "makespan": 163,
+      "runtime": 19.63371577183716
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 245,
+      "SoC": 17702,
+      "makespan": 245,
+      "runtime": 31.441464385949075
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 148,
+      "SoC": 3527,
+      "makespan": 148,
+      "runtime": 3.7277920299675316
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 219,
+      "SoC": 7958,
+      "makespan": 219,
+      "runtime": 9.667986226035282
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.6145833333333334,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 24794,
+      "makespan": 256,
+      "runtime": 17.214854431105778
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.59765625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 33805,
+      "makespan": 256,
+      "runtime": 22.67340455809608
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 98,
+      "SoC": 3182,
+      "makespan": 98,
+      "runtime": 2.9107894741464406
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 138,
+      "SoC": 6610,
+      "makespan": 138,
+      "runtime": 6.923907878808677
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9322916666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 14503,
+      "makespan": 256,
+      "runtime": 17.661309080198407
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.72265625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 27022,
+      "makespan": 256,
+      "runtime": 24.0833036811091
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 3113,
+      "makespan": 99,
+      "runtime": 2.854118301998824
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 6224,
+      "makespan": 104,
+      "runtime": 5.179353069048375
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 115,
+      "SoC": 9592,
+      "makespan": 115,
+      "runtime": 8.412980348104611
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.90234375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 17831,
+      "makespan": 256,
+      "runtime": 22.938670283881947
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 129,
+      "SoC": 3388,
+      "makespan": 129,
+      "runtime": 12.742210760014132
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 154,
+      "SoC": 6926,
+      "makespan": 154,
+      "runtime": 17.104309650836512
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 165,
+      "SoC": 11401,
+      "makespan": 165,
+      "runtime": 21.493298897054046
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 238,
+      "SoC": 17651,
+      "makespan": 238,
+      "runtime": 32.270025342935696
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 2687,
+      "makespan": 96,
+      "runtime": 3.182861241977662
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 102,
+      "SoC": 5940,
+      "makespan": 102,
+      "runtime": 5.778947218088433
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 105,
+      "SoC": 8649,
+      "makespan": 105,
+      "runtime": 8.297115630004555
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 11888,
+      "makespan": 108,
+      "runtime": 11.276355254929513
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 97,
+      "SoC": 3189,
+      "makespan": 97,
+      "runtime": 3.0325815598480403
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 126,
+      "SoC": 5856,
+      "makespan": 126,
+      "runtime": 6.497923100134358
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 125,
+      "SoC": 8928,
+      "makespan": 125,
+      "runtime": 9.520600956864655
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.98828125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 12993,
+      "makespan": 256,
+      "runtime": 23.75410578493029
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 135,
+      "SoC": 4039,
+      "makespan": 135,
+      "runtime": 3.7515811598859727
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Boston_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 134,
+      "SoC": 7994,
+      "makespan": 134,
+      "runtime": 6.662056147120893
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Boston_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 173,
+      "SoC": 13539,
+      "makespan": 173,
+      "runtime": 12.159625752130523
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Boston_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.953125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 24533,
+      "makespan": 256,
+      "runtime": 23.133319843793288
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Boston_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 135,
+      "SoC": 4737,
+      "makespan": 135,
+      "runtime": 10.911417103139684
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 171,
+      "SoC": 10594,
+      "makespan": 171,
+      "runtime": 15.539566908031702
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 169,
+      "SoC": 14546,
+      "makespan": 169,
+      "runtime": 19.400259922957048
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.98046875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 27827,
+      "makespan": 256,
+      "runtime": 31.864439285127446
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 119,
+      "SoC": 2908,
+      "makespan": 119,
+      "runtime": 11.502320101950318
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 5967,
+      "makespan": 99,
+      "runtime": 13.840775931021199
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.984375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 11328,
+      "makespan": 256,
+      "runtime": 27.078837611014023
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.85546875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 23444,
+      "makespan": 256,
+      "runtime": 34.53850894887
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 110,
+      "SoC": 2808,
+      "makespan": 110,
+      "runtime": 2.9948060559108853
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 114,
+      "SoC": 6004,
+      "makespan": 114,
+      "runtime": 5.536097231088206
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 140,
+      "SoC": 9449,
+      "makespan": 140,
+      "runtime": 9.795462116831914
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.7265625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 27447,
+      "makespan": 256,
+      "runtime": 24.217085510957986
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 127,
+      "SoC": 3366,
+      "makespan": 127,
+      "runtime": 12.831353195011616
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 142,
+      "SoC": 6866,
+      "makespan": 142,
+      "runtime": 16.652452666079625
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.6614583333333334,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 22105,
+      "makespan": 256,
+      "runtime": 28.940934889949858
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.6953125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 29551,
+      "makespan": 256,
+      "runtime": 35.72116192802787
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 2673,
+      "makespan": 101,
+      "runtime": 3.0560232049319893
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 5274,
+      "makespan": 101,
+      "runtime": 5.149316868977621
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 8348,
+      "makespan": 99,
+      "runtime": 7.497586632845923
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.87890625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 17480,
+      "makespan": 256,
+      "runtime": 23.09566397801973
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 90,
+      "SoC": 2617,
+      "makespan": 90,
+      "runtime": 2.713675450067967
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 92,
+      "SoC": 5363,
+      "makespan": 92,
+      "runtime": 4.962006276939064
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 115,
+      "SoC": 8738,
+      "makespan": 115,
+      "runtime": 8.438155582174659
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 18305,
+      "makespan": 256,
+      "runtime": 23.40970834507607
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 125,
+      "SoC": 3602,
+      "makespan": 125,
+      "runtime": 10.118759989039972
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 152,
+      "SoC": 8537,
+      "makespan": 152,
+      "runtime": 14.287780890939757
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9947916666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 14933,
+      "makespan": 256,
+      "runtime": 25.080948308110237
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 196,
+      "SoC": 19746,
+      "makespan": 196,
+      "runtime": 26.206799315987155
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 73,
+      "SoC": 1998,
+      "makespan": 73,
+      "runtime": 2.2687161918729544
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 83,
+      "SoC": 4432,
+      "makespan": 83,
+      "runtime": 4.3805209749843925
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 198,
+      "SoC": 7140,
+      "makespan": 198,
+      "runtime": 13.48940390208736
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 203,
+      "SoC": 10461,
+      "makespan": 203,
+      "runtime": 18.78203278291039
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.78125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 5497,
+      "makespan": 256,
+      "runtime": 15.470679609104991
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.78125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 11535,
+      "makespan": 256,
+      "runtime": 21.33725022012368
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.5572916666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 26853,
+      "makespan": 256,
+      "runtime": 29.099391609197482
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.6328125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 32244,
+      "makespan": 256,
+      "runtime": 36.28507820493542
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 88,
+      "SoC": 2989,
+      "makespan": 88,
+      "runtime": 2.735966379987076
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 94,
+      "SoC": 6133,
+      "makespan": 94,
+      "runtime": 5.058857139898464
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 137,
+      "SoC": 9540,
+      "makespan": 137,
+      "runtime": 10.128304547863081
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.97265625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 16326,
+      "makespan": 256,
+      "runtime": 23.873152126092464
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 93,
+      "SoC": 2984,
+      "makespan": 93,
+      "runtime": 8.613861677935347
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 110,
+      "SoC": 6051,
+      "makespan": 110,
+      "runtime": 11.318142276024446
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9895833333333334,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 9900,
+      "makespan": 256,
+      "runtime": 23.251159788807854
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.91015625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 19546,
+      "makespan": 256,
+      "runtime": 29.461579494178295
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 3227,
+      "makespan": 101,
+      "runtime": 10.485644304193556
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.703125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 13680,
+      "makespan": 256,
+      "runtime": 19.887948301853612
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.71875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 19883,
+      "makespan": 256,
+      "runtime": 25.7757175299339
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.6953125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 27651,
+      "makespan": 256,
+      "runtime": 33.49002376082353
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 114,
+      "SoC": 3360,
+      "makespan": 114,
+      "runtime": 5.050673780031502
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.6484375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 15426,
+      "makespan": 256,
+      "runtime": 16.51644654595293
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.5885416666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 25804,
+      "makespan": 256,
+      "runtime": 18.507850076071918
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.48046875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 38711,
+      "makespan": 256,
+      "runtime": 24.666669719852507
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 189,
+      "SoC": 4223,
+      "makespan": 189,
+      "runtime": 5.085079168900847
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.578125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 16590,
+      "makespan": 256,
+      "runtime": 12.204703142168
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.5989583333333334,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 24593,
+      "makespan": 256,
+      "runtime": 18.512473308946937
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.5390625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 36828,
+      "makespan": 256,
+      "runtime": 24.704634780995548
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 2249,
+      "makespan": 96,
+      "runtime": 6.775127077009529
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 129,
+      "SoC": 5328,
+      "makespan": 129,
+      "runtime": 10.415406683227047
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.90625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 11598,
+      "makespan": 256,
+      "runtime": 21.405045974068344
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.8828125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 17147,
+      "makespan": 256,
+      "runtime": 27.658685819013044
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 2555,
+      "makespan": 96,
+      "runtime": 2.9329885318875313
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "London_2_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 106,
+      "SoC": 5444,
+      "makespan": 106,
+      "runtime": 5.534044292988256
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "London_2_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 106,
+      "SoC": 8312,
+      "makespan": 106,
+      "runtime": 8.038190593011677
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "London_2_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 11571,
+      "makespan": 108,
+      "runtime": 10.960707168094814
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "London_2_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 106,
+      "SoC": 3173,
+      "makespan": 106,
+      "runtime": 7.365819629048929
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 6518,
+      "makespan": 104,
+      "runtime": 8.077325097983703
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9322916666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 12778,
+      "makespan": 256,
+      "runtime": 20.188981545856223
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.921875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 18625,
+      "makespan": 256,
+      "runtime": 28.490963239921257
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 92,
+      "SoC": 2626,
+      "makespan": 92,
+      "runtime": 4.292089302092791
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 100,
+      "SoC": 5190,
+      "makespan": 100,
+      "runtime": 6.950003553181887
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 8090,
+      "makespan": 113,
+      "runtime": 9.198525396175683
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 178,
+      "SoC": 11947,
+      "makespan": 178,
+      "runtime": 18.135341924848035
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 2649,
+      "makespan": 96,
+      "runtime": 3.8242265321314335
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 5542,
+      "makespan": 107,
+      "runtime": 6.924247236223891
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 115,
+      "SoC": 8452,
+      "makespan": 115,
+      "runtime": 10.577056500129402
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 136,
+      "SoC": 12492,
+      "makespan": 136,
+      "runtime": 13.131754206959158
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 100,
+      "SoC": 2717,
+      "makespan": 100,
+      "runtime": 3.1530475069303066
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 100,
+      "SoC": 6013,
+      "makespan": 100,
+      "runtime": 5.464145798934624
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 8789,
+      "makespan": 104,
+      "runtime": 8.157347935019061
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.98828125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 12573,
+      "makespan": 256,
+      "runtime": 23.41058095707558
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 2666,
+      "makespan": 104,
+      "runtime": 3.028794596204534
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 5513,
+      "makespan": 108,
+      "runtime": 5.586502240039408
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 8668,
+      "makespan": 109,
+      "runtime": 8.237079638056457
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 195,
+      "SoC": 12419,
+      "makespan": 195,
+      "runtime": 18.42479506484233
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 89,
+      "SoC": 2653,
+      "makespan": 89,
+      "runtime": 16.081037784926593
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 95,
+      "SoC": 5464,
+      "makespan": 95,
+      "runtime": 18.583694312023
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 106,
+      "SoC": 8737,
+      "makespan": 106,
+      "runtime": 22.00811099098064
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 11879,
+      "makespan": 108,
+      "runtime": 25.223640887066722
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 90,
+      "SoC": 2908,
+      "makespan": 90,
+      "runtime": 2.737870544893667
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 5707,
+      "makespan": 113,
+      "runtime": 5.751090767094865
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 8826,
+      "makespan": 113,
+      "runtime": 8.281916067004204
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 155,
+      "SoC": 12428,
+      "makespan": 155,
+      "runtime": 14.506887241033837
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 92,
+      "SoC": 3130,
+      "makespan": 92,
+      "runtime": 2.9827487331349403
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 92,
+      "SoC": 6005,
+      "makespan": 92,
+      "runtime": 5.14259482990019
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 117,
+      "SoC": 9428,
+      "makespan": 117,
+      "runtime": 8.841899062041193
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 119,
+      "SoC": 13094,
+      "makespan": 119,
+      "runtime": 12.076083227992058
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 137,
+      "SoC": 4005,
+      "makespan": 137,
+      "runtime": 3.6265707600396127
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 147,
+      "SoC": 8866,
+      "makespan": 147,
+      "runtime": 6.983575213933364
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 189,
+      "SoC": 14687,
+      "makespan": 189,
+      "runtime": 12.9534926940687
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.66796875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 33487,
+      "makespan": 256,
+      "runtime": 23.562412268016487
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 120,
+      "SoC": 3481,
+      "makespan": 120,
+      "runtime": 7.992205262184143
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 161,
+      "SoC": 8914,
+      "makespan": 161,
+      "runtime": 12.510369142983109
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9479166666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 17284,
+      "makespan": 256,
+      "runtime": 22.541811366099864
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.5859375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 34254,
+      "makespan": 256,
+      "runtime": 32.71168788499199
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 3022,
+      "makespan": 104,
+      "runtime": 4.231224420014769
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 106,
+      "SoC": 6105,
+      "makespan": 106,
+      "runtime": 6.90073770401068
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 121,
+      "SoC": 9816,
+      "makespan": 121,
+      "runtime": 10.576311694923788
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.91796875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 18811,
+      "makespan": 256,
+      "runtime": 26.310555677860975
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 3364,
+      "makespan": 107,
+      "runtime": 4.469086485914886
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 141,
+      "SoC": 6305,
+      "makespan": 141,
+      "runtime": 9.022511050803587
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 175,
+      "SoC": 10022,
+      "makespan": 175,
+      "runtime": 15.482492438983172
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 124,
+      "SoC": 14065,
+      "makespan": 124,
+      "runtime": 13.84629441308789
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.953125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 4094,
+      "makespan": 256,
+      "runtime": 9.23770984984003
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.96875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 6841,
+      "makespan": 256,
+      "runtime": 14.401669901795685
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9791666666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 10442,
+      "makespan": 256,
+      "runtime": 17.59147665812634
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.890625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 18876,
+      "makespan": 256,
+      "runtime": 21.875100534176454
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 2237,
+      "makespan": 109,
+      "runtime": 2.8423057741019875
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.984375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 5198,
+      "makespan": 256,
+      "runtime": 11.29262186284177
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 123,
+      "SoC": 7916,
+      "makespan": 123,
+      "runtime": 8.364390144124627
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 172,
+      "SoC": 12956,
+      "makespan": 172,
+      "runtime": 15.338111201068386
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 87,
+      "SoC": 2879,
+      "makespan": 87,
+      "runtime": 2.925852257059887
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 92,
+      "SoC": 5570,
+      "makespan": 92,
+      "runtime": 5.1223800289444625
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 141,
+      "SoC": 8555,
+      "makespan": 141,
+      "runtime": 10.635574302868918
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 165,
+      "SoC": 12146,
+      "makespan": 165,
+      "runtime": 16.059949283022434
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 91,
+      "SoC": 2811,
+      "makespan": 91,
+      "runtime": 2.7432991310488433
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Milan_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 102,
+      "SoC": 6051,
+      "makespan": 102,
+      "runtime": 5.288622476160526
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Milan_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 9259,
+      "makespan": 108,
+      "runtime": 8.141586655983701
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Milan_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 114,
+      "SoC": 12636,
+      "makespan": 114,
+      "runtime": 11.933323415927589
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Milan_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 2645,
+      "makespan": 109,
+      "runtime": 11.153665020130575
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 105,
+      "SoC": 5326,
+      "makespan": 105,
+      "runtime": 13.365364723140374
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 119,
+      "SoC": 8582,
+      "makespan": 119,
+      "runtime": 17.289249054854736
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9921875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 14055,
+      "makespan": 256,
+      "runtime": 34.08612211700529
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 141,
+      "SoC": 4118,
+      "makespan": 141,
+      "runtime": 11.423137836856768
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 149,
+      "SoC": 8105,
+      "makespan": 149,
+      "runtime": 15.32501089014113
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9479166666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 17225,
+      "makespan": 256,
+      "runtime": 27.392871908843517
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.72265625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 29426,
+      "makespan": 256,
+      "runtime": 34.78550930111669
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 92,
+      "SoC": 2642,
+      "makespan": 92,
+      "runtime": 10.026134420884773
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 95,
+      "SoC": 5446,
+      "makespan": 95,
+      "runtime": 13.488582536112517
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 123,
+      "SoC": 9061,
+      "makespan": 123,
+      "runtime": 18.463803243124858
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 164,
+      "SoC": 13131,
+      "makespan": 164,
+      "runtime": 26.18374657887034
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 112,
+      "SoC": 3062,
+      "makespan": 112,
+      "runtime": 4.537187516922131
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 119,
+      "SoC": 5954,
+      "makespan": 119,
+      "runtime": 7.644652777118608
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 121,
+      "SoC": 8971,
+      "makespan": 121,
+      "runtime": 10.757845643907785
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 126,
+      "SoC": 13209,
+      "makespan": 126,
+      "runtime": 13.968083702027798
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 98,
+      "SoC": 2824,
+      "makespan": 98,
+      "runtime": 12.01043673697859
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 114,
+      "SoC": 5946,
+      "makespan": 114,
+      "runtime": 15.684726765146479
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 131,
+      "SoC": 9706,
+      "makespan": 131,
+      "runtime": 20.35705069708638
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.99609375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 15911,
+      "makespan": 256,
+      "runtime": 37.48012722400017
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 2830,
+      "makespan": 96,
+      "runtime": 14.452129360055551
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 98,
+      "SoC": 5636,
+      "makespan": 98,
+      "runtime": 17.223872599890456
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 234,
+      "SoC": 9425,
+      "makespan": 234,
+      "runtime": 31.263790210010484
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.98828125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 14473,
+      "makespan": 256,
+      "runtime": 39.69237097189762
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 95,
+      "SoC": 2489,
+      "makespan": 95,
+      "runtime": 3.9371397108770907
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 5288,
+      "makespan": 99,
+      "runtime": 6.5409653971437365
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 255,
+      "SoC": 8739,
+      "makespan": 255,
+      "runtime": 21.455698275007308
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.99609375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 12775,
+      "makespan": 256,
+      "runtime": 26.980048642028123
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 3562,
+      "makespan": 107,
+      "runtime": 8.51407237793319
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 130,
+      "SoC": 7607,
+      "makespan": 130,
+      "runtime": 12.287912326864898
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.8072916666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 20224,
+      "makespan": 256,
+      "runtime": 25.452728532021865
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.51171875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 40991,
+      "makespan": 256,
+      "runtime": 31.297270308015868
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 117,
+      "SoC": 3056,
+      "makespan": 117,
+      "runtime": 4.542509310878813
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 162,
+      "SoC": 6782,
+      "makespan": 162,
+      "runtime": 9.884939154144377
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 120,
+      "SoC": 9841,
+      "makespan": 120,
+      "runtime": 10.365436374209821
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.8984375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 18078,
+      "makespan": 256,
+      "runtime": 25.99704205803573
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 2795,
+      "makespan": 104,
+      "runtime": 4.283481058897451
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 110,
+      "SoC": 6293,
+      "makespan": 110,
+      "runtime": 7.455354432109743
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 123,
+      "SoC": 9575,
+      "makespan": 123,
+      "runtime": 11.115574420895427
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.99609375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 14731,
+      "makespan": 256,
+      "runtime": 26.69486095593311
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 89,
+      "SoC": 2858,
+      "makespan": 89,
+      "runtime": 3.8088604400400072
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 89,
+      "SoC": 5590,
+      "makespan": 89,
+      "runtime": 5.982468350091949
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 143,
+      "SoC": 8970,
+      "makespan": 143,
+      "runtime": 12.22965319501236
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 134,
+      "SoC": 12422,
+      "makespan": 134,
+      "runtime": 14.530781517969444
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 2892,
+      "makespan": 101,
+      "runtime": 4.098697300069034
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 106,
+      "SoC": 6159,
+      "makespan": 106,
+      "runtime": 6.83704705699347
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 114,
+      "SoC": 9791,
+      "makespan": 114,
+      "runtime": 10.181040791096166
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9140625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 20531,
+      "makespan": 256,
+      "runtime": 26.38046331796795
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 122,
+      "SoC": 3746,
+      "makespan": 122,
+      "runtime": 4.731695550028235
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 134,
+      "SoC": 7564,
+      "makespan": 134,
+      "runtime": 8.563423299929127
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 231,
+      "SoC": 13930,
+      "makespan": 231,
+      "runtime": 19.222674218006432
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.66015625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 30836,
+      "makespan": 256,
+      "runtime": 27.23893265100196
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 3110,
+      "makespan": 96,
+      "runtime": 4.08072730503045
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 117,
+      "SoC": 6402,
+      "makespan": 117,
+      "runtime": 7.646898712962866
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 147,
+      "SoC": 10897,
+      "makespan": 147,
+      "runtime": 12.754736297065392
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 200,
+      "SoC": 16999,
+      "makespan": 200,
+      "runtime": 21.68273300002329
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 120,
+      "SoC": 3891,
+      "makespan": 120,
+      "runtime": 10.711742484010756
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.671875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 14995,
+      "makespan": 256,
+      "runtime": 20.841652174014598
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.6458333333333334,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 23412,
+      "makespan": 256,
+      "runtime": 25.361737607978284
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.69140625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 29794,
+      "makespan": 256,
+      "runtime": 33.12192678102292
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 100,
+      "SoC": 3015,
+      "makespan": 100,
+      "runtime": 4.003490200033411
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Moscow_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 100,
+      "SoC": 6337,
+      "makespan": 100,
+      "runtime": 6.479281387990341
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Moscow_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 124,
+      "SoC": 10470,
+      "makespan": 124,
+      "runtime": 10.577173065161332
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Moscow_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.984375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 16250,
+      "makespan": 256,
+      "runtime": 25.97495171101764
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Moscow_0_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 98,
+      "SoC": 2607,
+      "makespan": 98,
+      "runtime": 4.349612602032721
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 118,
+      "SoC": 5378,
+      "makespan": 118,
+      "runtime": 7.806875342037529
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 123,
+      "SoC": 8320,
+      "makespan": 123,
+      "runtime": 11.063064276007935
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 152,
+      "SoC": 11891,
+      "makespan": 152,
+      "runtime": 16.77959357504733
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 120,
+      "SoC": 3727,
+      "makespan": 120,
+      "runtime": 14.017858266131952
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 125,
+      "SoC": 7958,
+      "makespan": 125,
+      "runtime": 17.20705496892333
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 175,
+      "SoC": 12861,
+      "makespan": 175,
+      "runtime": 24.67605326604098
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 159,
+      "SoC": 16939,
+      "makespan": 159,
+      "runtime": 27.108868108829483
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 175,
+      "SoC": 4161,
+      "makespan": 175,
+      "runtime": 6.320670300861821
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 176,
+      "SoC": 8489,
+      "makespan": 176,
+      "runtime": 10.409244093112648
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 247,
+      "SoC": 18152,
+      "makespan": 247,
+      "runtime": 19.87964283116162
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.73046875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 30489,
+      "makespan": 256,
+      "runtime": 27.06708056619391
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 132,
+      "SoC": 2995,
+      "makespan": 132,
+      "runtime": 11.240488252835348
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 155,
+      "SoC": 7250,
+      "makespan": 155,
+      "runtime": 16.078312469879165
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 175,
+      "SoC": 11958,
+      "makespan": 175,
+      "runtime": 21.769611234078184
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 245,
+      "SoC": 18396,
+      "makespan": 245,
+      "runtime": 34.176201809197664
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 170,
+      "SoC": 3844,
+      "makespan": 170,
+      "runtime": 6.363477852893993
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 183,
+      "SoC": 7953,
+      "makespan": 183,
+      "runtime": 11.047620656900108
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.859375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 21218,
+      "makespan": 256,
+      "runtime": 21.082424619002268
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.6796875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 30143,
+      "makespan": 256,
+      "runtime": 26.96546251187101
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 95,
+      "SoC": 2758,
+      "makespan": 95,
+      "runtime": 12.050467493012547
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 115,
+      "SoC": 5903,
+      "makespan": 115,
+      "runtime": 15.674233207013458
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 114,
+      "SoC": 9255,
+      "makespan": 114,
+      "runtime": 18.694348343182355
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 171,
+      "SoC": 13932,
+      "makespan": 171,
+      "runtime": 28.009941275930032
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 141,
+      "SoC": 3960,
+      "makespan": 141,
+      "runtime": 5.586532120127231
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 156,
+      "SoC": 7884,
+      "makespan": 156,
+      "runtime": 9.670811691088602
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9947916666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 16140,
+      "makespan": 256,
+      "runtime": 20.949584098998457
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.99609375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 22283,
+      "makespan": 256,
+      "runtime": 26.89738049497828
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 147,
+      "SoC": 3902,
+      "makespan": 147,
+      "runtime": 5.6200008660089225
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 151,
+      "SoC": 7654,
+      "makespan": 151,
+      "runtime": 8.456402492010966
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 234,
+      "SoC": 12135,
+      "makespan": 234,
+      "runtime": 16.126545728184283
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 189,
+      "SoC": 17496,
+      "makespan": 189,
+      "runtime": 17.477445628959686
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 119,
+      "SoC": 3266,
+      "makespan": 119,
+      "runtime": 3.3953091660514474
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 119,
+      "SoC": 6973,
+      "makespan": 119,
+      "runtime": 6.338245119201019
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 192,
+      "SoC": 11958,
+      "makespan": 192,
+      "runtime": 13.875478552188724
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.97265625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 19955,
+      "makespan": 256,
+      "runtime": 24.246247978881
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 112,
+      "SoC": 2989,
+      "makespan": 112,
+      "runtime": 3.4497918831184506
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 124,
+      "SoC": 6164,
+      "makespan": 124,
+      "runtime": 6.55048272293061
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 144,
+      "SoC": 10092,
+      "makespan": 144,
+      "runtime": 10.760041202884167
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.984375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 19460,
+      "makespan": 256,
+      "runtime": 25.261099121998996
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 130,
+      "SoC": 3116,
+      "makespan": 130,
+      "runtime": 5.102841936983168
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 129,
+      "SoC": 6627,
+      "makespan": 129,
+      "runtime": 8.276172020938247
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 178,
+      "SoC": 10803,
+      "makespan": 178,
+      "runtime": 15.224619565997273
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.8828125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 22835,
+      "makespan": 256,
+      "runtime": 26.408374255988747
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 100,
+      "SoC": 2662,
+      "makespan": 100,
+      "runtime": 12.626406067982316
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 5623,
+      "makespan": 107,
+      "runtime": 15.74097833619453
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 126,
+      "SoC": 9225,
+      "makespan": 126,
+      "runtime": 20.326030432013795
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 136,
+      "SoC": 12515,
+      "makespan": 136,
+      "runtime": 24.62888136622496
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 2753,
+      "makespan": 113,
+      "runtime": 4.630452759098262
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 116,
+      "SoC": 5693,
+      "makespan": 116,
+      "runtime": 7.6214558789506555
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 8589,
+      "makespan": 113,
+      "runtime": 10.273892066907138
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 11358,
+      "makespan": 113,
+      "runtime": 12.897905749036
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 3048,
+      "makespan": 108,
+      "runtime": 4.580060420092195
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 123,
+      "SoC": 6124,
+      "makespan": 123,
+      "runtime": 8.070237020030618
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 118,
+      "SoC": 9574,
+      "makespan": 118,
+      "runtime": 10.67594439489767
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.98046875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 14607,
+      "makespan": 256,
+      "runtime": 26.58335288683884
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 92,
+      "SoC": 2203,
+      "makespan": 92,
+      "runtime": 12.984617563895881
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 5036,
+      "makespan": 104,
+      "runtime": 15.962672430090606
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 116,
+      "SoC": 8198,
+      "makespan": 116,
+      "runtime": 19.670317081036046
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.98828125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 15346,
+      "makespan": 256,
+      "runtime": 34.00786858703941
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 119,
+      "SoC": 3076,
+      "makespan": 119,
+      "runtime": 7.828909748001024
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "NewYork_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 132,
+      "SoC": 6302,
+      "makespan": 132,
+      "runtime": 11.707298184046522
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "NewYork_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9947916666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 12360,
+      "makespan": 256,
+      "runtime": 23.71654498297721
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "NewYork_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 173,
+      "SoC": 15364,
+      "makespan": 173,
+      "runtime": 22.7880289030727
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "NewYork_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 2891,
+      "makespan": 96,
+      "runtime": 3.0244801559019834
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 5714,
+      "makespan": 96,
+      "runtime": 5.326965952990577
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 103,
+      "SoC": 8675,
+      "makespan": 103,
+      "runtime": 8.084745419910178
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 12013,
+      "makespan": 104,
+      "runtime": 10.796290230937302
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 3201,
+      "makespan": 109,
+      "runtime": 11.300907992059365
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.859375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 9939,
+      "makespan": 256,
+      "runtime": 20.680965040111914
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.859375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 18695,
+      "makespan": 256,
+      "runtime": 27.42542210384272
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.73828125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 27117,
+      "makespan": 256,
+      "runtime": 33.41644703201018
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 146,
+      "SoC": 3837,
+      "makespan": 146,
+      "runtime": 12.21429454605095
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.7265625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 13441,
+      "makespan": 256,
+      "runtime": 20.748802334070206
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.6510416666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 23469,
+      "makespan": 256,
+      "runtime": 27.079997380962595
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.60546875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 33720,
+      "makespan": 256,
+      "runtime": 33.81059509003535
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 129,
+      "SoC": 2658,
+      "makespan": 129,
+      "runtime": 3.4927153941243887
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 131,
+      "SoC": 6198,
+      "makespan": 131,
+      "runtime": 6.340178964892402
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 134,
+      "SoC": 10042,
+      "makespan": 134,
+      "runtime": 9.562006073072553
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.859375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 21393,
+      "makespan": 256,
+      "runtime": 23.133185350103304
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 94,
+      "SoC": 2874,
+      "makespan": 94,
+      "runtime": 2.770474832970649
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 112,
+      "SoC": 6302,
+      "makespan": 112,
+      "runtime": 5.684358108090237
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 186,
+      "SoC": 11481,
+      "makespan": 186,
+      "runtime": 12.898610895965248
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9921875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 15350,
+      "makespan": 256,
+      "runtime": 22.863894328009337
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 3103,
+      "makespan": 108,
+      "runtime": 3.1138314770068973
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 181,
+      "SoC": 6486,
+      "makespan": 181,
+      "runtime": 8.616569987032562
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 141,
+      "SoC": 11162,
+      "makespan": 141,
+      "runtime": 10.350178384920582
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.671875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 30598,
+      "makespan": 256,
+      "runtime": 24.35709677892737
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 2540,
+      "makespan": 96,
+      "runtime": 13.261930991895497
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 5770,
+      "makespan": 109,
+      "runtime": 16.221581485122442
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 8705,
+      "makespan": 108,
+      "runtime": 19.053205853095278
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.98828125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 15104,
+      "makespan": 256,
+      "runtime": 35.56190234189853
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 92,
+      "SoC": 2856,
+      "makespan": 92,
+      "runtime": 10.593262050068006
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 108,
+      "SoC": 5691,
+      "makespan": 108,
+      "runtime": 13.847967806039378
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 112,
+      "SoC": 8657,
+      "makespan": 112,
+      "runtime": 17.115866623818874
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 123,
+      "SoC": 12804,
+      "makespan": 123,
+      "runtime": 21.77849612920545
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 92,
+      "SoC": 2734,
+      "makespan": 92,
+      "runtime": 2.7485512669663876
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 6021,
+      "makespan": 96,
+      "runtime": 5.155002767918631
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 9205,
+      "makespan": 107,
+      "runtime": 7.966177046997473
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 116,
+      "SoC": 12914,
+      "makespan": 116,
+      "runtime": 11.555304002016783
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 2541,
+      "makespan": 104,
+      "runtime": 4.587402024073526
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 118,
+      "SoC": 4842,
+      "makespan": 118,
+      "runtime": 6.388976247981191
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9895833333333334,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 8276,
+      "makespan": 256,
+      "runtime": 21.151015443028882
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.98828125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 12128,
+      "makespan": 256,
+      "runtime": 24.288112031994388
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 83,
+      "SoC": 2685,
+      "makespan": 83,
+      "runtime": 4.087999919895083
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 102,
+      "SoC": 5507,
+      "makespan": 102,
+      "runtime": 6.132359743816778
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 8205,
+      "makespan": 104,
+      "runtime": 8.775936627062038
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 116,
+      "SoC": 11531,
+      "makespan": 116,
+      "runtime": 12.015147552127019
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 3001,
+      "makespan": 99,
+      "runtime": 13.213148623006418
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 115,
+      "SoC": 6058,
+      "makespan": 115,
+      "runtime": 15.745880180038512
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9635416666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 12539,
+      "makespan": 256,
+      "runtime": 31.274209276074544
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.96875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 17118,
+      "makespan": 256,
+      "runtime": 35.97386385896243
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 3042,
+      "makespan": 104,
+      "runtime": 3.051634805975482
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.96875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 7417,
+      "makespan": 256,
+      "runtime": 11.82829164317809
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 233,
+      "SoC": 14072,
+      "makespan": 233,
+      "runtime": 16.714288112008944
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 21950,
+      "makespan": 256,
+      "runtime": 24.328145312145352
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 2718,
+      "makespan": 101,
+      "runtime": 8.96976065193303
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 5708,
+      "makespan": 101,
+      "runtime": 11.538607659051195
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 106,
+      "SoC": 8116,
+      "makespan": 106,
+      "runtime": 14.502734204055741
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 166,
+      "SoC": 11653,
+      "makespan": 166,
+      "runtime": 22.9724330061581
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 107,
+      "SoC": 2277,
+      "makespan": 107,
+      "runtime": 12.904605022864416
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 4771,
+      "makespan": 109,
+      "runtime": 16.28430176805705
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 116,
+      "SoC": 7243,
+      "makespan": 116,
+      "runtime": 19.844767509959638
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 121,
+      "SoC": 10238,
+      "makespan": 121,
+      "runtime": 22.946065783966333
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 105,
+      "SoC": 3330,
+      "makespan": 105,
+      "runtime": 11.137282005976886
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 132,
+      "SoC": 6476,
+      "makespan": 132,
+      "runtime": 14.899901061085984
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 171,
+      "SoC": 11718,
+      "makespan": 171,
+      "runtime": 20.617639135103673
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.89453125,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 19309,
+      "makespan": 256,
+      "runtime": 32.332586153876036
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_1_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 89,
+      "SoC": 2123,
+      "makespan": 89,
+      "runtime": 2.5363706899806857
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 95,
+      "SoC": 4637,
+      "makespan": 95,
+      "runtime": 4.713936025975272
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 103,
+      "SoC": 7319,
+      "makespan": 103,
+      "runtime": 7.395320323994383
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 151,
+      "SoC": 10943,
+      "makespan": 151,
+      "runtime": 13.958181133959442
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_00",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 90,
+      "SoC": 2559,
+      "makespan": 90,
+      "runtime": 8.9531332149636
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 5445,
+      "makespan": 99,
+      "runtime": 11.747273103101179
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9947916666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 8640,
+      "makespan": 256,
+      "runtime": 25.40365974488668
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 11535,
+      "makespan": 99,
+      "runtime": 17.457969474839047
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_01",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 83,
+      "SoC": 2187,
+      "makespan": 83,
+      "runtime": 2.8901048908010125
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 92,
+      "SoC": 5100,
+      "makespan": 92,
+      "runtime": 4.9727626319509
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 103,
+      "SoC": 7737,
+      "makespan": 103,
+      "runtime": 8.183966064127162
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 10674,
+      "makespan": 99,
+      "runtime": 10.302885929122567
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_02",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 2951,
+      "makespan": 109,
+      "runtime": 7.454660911811516
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 110,
+      "SoC": 6431,
+      "makespan": 110,
+      "runtime": 10.18376232078299
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9895833333333334,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 11310,
+      "makespan": 256,
+      "runtime": 22.808724181959406
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.99609375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 17818,
+      "makespan": 256,
+      "runtime": 30.70349610899575
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_03",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 105,
+      "SoC": 3131,
+      "makespan": 105,
+      "runtime": 9.181708710966632
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 106,
+      "SoC": 6217,
+      "makespan": 106,
+      "runtime": 11.549484683200717
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 111,
+      "SoC": 9852,
+      "makespan": 111,
+      "runtime": 14.74240576592274
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 172,
+      "SoC": 14884,
+      "makespan": 172,
+      "runtime": 23.66249319911003
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_04",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 102,
+      "SoC": 3171,
+      "makespan": 102,
+      "runtime": 11.398535389918834
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 102,
+      "SoC": 6645,
+      "makespan": 102,
+      "runtime": 12.752084442880005
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 113,
+      "SoC": 10357,
+      "makespan": 113,
+      "runtime": 16.437639703042805
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.984375,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 18260,
+      "makespan": 256,
+      "runtime": 32.80176073801704
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_05",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 96,
+      "SoC": 2700,
+      "makespan": 96,
+      "runtime": 9.228835727088153
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 102,
+      "SoC": 5562,
+      "makespan": 102,
+      "runtime": 11.235565593000501
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.96875,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 10386,
+      "makespan": 256,
+      "runtime": 26.06845981394872
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 231,
+      "SoC": 14582,
+      "makespan": 231,
+      "runtime": 28.744321536039934
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_06",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 83,
+      "SoC": 1803,
+      "makespan": 83,
+      "runtime": 8.175647847121581
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 99,
+      "SoC": 3928,
+      "makespan": 99,
+      "runtime": 10.891202406957746
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 115,
+      "SoC": 6660,
+      "makespan": 115,
+      "runtime": 14.805222302908078
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 176,
+      "SoC": 10028,
+      "makespan": 176,
+      "runtime": 23.374744455097243
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_07",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 2740,
+      "makespan": 101,
+      "runtime": 3.0194652110803872
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 120,
+      "SoC": 5713,
+      "makespan": 120,
+      "runtime": 6.240285590989515
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9791666666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 9112,
+      "makespan": 256,
+      "runtime": 17.65051525598392
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 124,
+      "SoC": 12452,
+      "makespan": 124,
+      "runtime": 12.302117629908025
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_08",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 87,
+      "SoC": 3006,
+      "makespan": 87,
+      "runtime": 14.300384730799124
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 110,
+      "SoC": 6184,
+      "makespan": 110,
+      "runtime": 16.995821190997958
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 214,
+      "SoC": 11299,
+      "makespan": 214,
+      "runtime": 28.17356853117235
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 206,
+      "SoC": 17570,
+      "makespan": 206,
+      "runtime": 35.10626994911581
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_09",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 119,
+      "SoC": 3439,
+      "makespan": 119,
+      "runtime": 5.651521647116169
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 122,
+      "SoC": 6833,
+      "makespan": 122,
+      "runtime": 6.833662061020732
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 135,
+      "SoC": 10413,
+      "makespan": 135,
+      "runtime": 11.708204676862806
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 213,
+      "SoC": 19206,
+      "makespan": 213,
+      "runtime": 19.69109855592251
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_10",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 137,
+      "SoC": 3520,
+      "makespan": 137,
+      "runtime": 3.7594632969703525
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 139,
+      "SoC": 7631,
+      "makespan": 139,
+      "runtime": 6.739185846177861
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.9479166666666666,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 14729,
+      "makespan": 256,
+      "runtime": 17.061784732853994
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 0.90625,
+      "CSR": 0.0,
+      "ep_length": 256,
+      "SoC": 21113,
+      "makespan": 256,
+      "runtime": 22.867581197060645
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_11",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 90,
+      "SoC": 2779,
+      "makespan": 90,
+      "runtime": 3.035690324846655
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 101,
+      "SoC": 5816,
+      "makespan": 101,
+      "runtime": 5.656486605061218
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 121,
+      "SoC": 8313,
+      "makespan": 121,
+      "runtime": 9.40294117690064
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 103,
+      "SoC": 11315,
+      "makespan": 103,
+      "runtime": 11.175254373811185
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_12",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 100,
+      "SoC": 3027,
+      "makespan": 100,
+      "runtime": 3.199150742031634
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 100,
+      "SoC": 6091,
+      "makespan": 100,
+      "runtime": 5.659220192115754
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 104,
+      "SoC": 9005,
+      "makespan": 104,
+      "runtime": 8.170413062907755
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 103,
+      "SoC": 11923,
+      "makespan": 103,
+      "runtime": 10.704072131076828
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_13",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 105,
+      "SoC": 2623,
+      "makespan": 105,
+      "runtime": 3.0159475379623473
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 109,
+      "SoC": 5897,
+      "makespan": 109,
+      "runtime": 5.7284170291386545
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 152,
+      "SoC": 9688,
+      "makespan": 152,
+      "runtime": 10.591412117006257
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 216,
+      "SoC": 15947,
+      "makespan": 216,
+      "runtime": 19.597883771872148
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_14",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 134,
+      "SoC": 3186,
+      "makespan": 134,
+      "runtime": 3.9333428819663823
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "map_name": "Paris_2_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 138,
+      "SoC": 6443,
+      "makespan": 138,
+      "runtime": 7.2087406509090215
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "map_name": "Paris_2_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 165,
+      "SoC": 10224,
+      "makespan": 165,
+      "runtime": 13.024278746917844
+    },
+    "env_grid_search": {
+      "num_agents": 192,
+      "map_name": "Paris_2_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  },
+  {
+    "metrics": {
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 161,
+      "SoC": 14352,
+      "makespan": 161,
+      "runtime": 16.324345360975713
+    },
+    "env_grid_search": {
+      "num_agents": 256,
+      "map_name": "Paris_2_256_15",
+      "seed": 0
+    },
+    "algorithm": "HMAGAT"
+  }
+]
