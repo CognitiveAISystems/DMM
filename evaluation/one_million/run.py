@@ -73,7 +73,7 @@ def main() -> int:
     parser.add_argument("--algorithm", choices=("dmm", "gpu-pibt", "both"), default="both")
     parser.add_argument("--output-root", type=Path, default=ROOT / "eval_results" / "one_million")
     parser.add_argument("--scenario-root", type=Path)
-    parser.add_argument("--checkpoint", type=Path, default=ROOT / "checkpoints" / "DMM-MICPO-08M.pt")
+    parser.add_argument("--checkpoint", type=Path, default=ROOT / "weights" / "DMM-MICPO-08M.pt")
     parser.add_argument("--gpus", default="0,1,2,3")
     parser.add_argument("--resume", action="store_true")
     args = parser.parse_args()
@@ -94,8 +94,10 @@ def main() -> int:
         if not master.is_file():
             parser.error(f"Missing {master}; run python -m evaluation.one_million.generate")
     checkpoint = args.checkpoint.expanduser().resolve()
-    if args.algorithm in ("dmm", "both") and not checkpoint.is_file():
-        parser.error(f"Missing DMM checkpoint: {checkpoint}")
+    if args.algorithm in ("dmm", "both"):
+        from model.weights import resolve_weights
+
+        checkpoint = resolve_weights(checkpoint)
 
     output_root.mkdir(parents=True, exist_ok=True)
     env = dict(os.environ)

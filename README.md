@@ -5,7 +5,7 @@
 # Decentralized Master-Mind
 
 Code for DMM-08M and DMM-3M: pretraining, MICPO training,
-POGEMA-GPU evaluation, four model checkpoints, benchmark inputs, and the raw
+POGEMA-GPU evaluation, Hugging Face model weights, benchmark inputs, and the raw
 results and plotting scripts used for the paper.
 
 ## Contents
@@ -15,20 +15,23 @@ results and plotting scripts used for the paper.
 | `model/` | The two checkpoint-compatible DMM architectures |
 | `training/pretrain/` | DMM pretraining data loader, configs and shared training loop |
 | `training/micpo/` | MICPO loop and configs; observations use the bundled POGEMA-GPU tokenizer |
-| `checkpoints/` | Four model-only checkpoints without optimizer state |
+| `weights/` | Downloaded model weights (ignored by Git) |
 | `pogema_gpu/` | Bundled CUDA environment used by training and evaluation |
 | `evaluation/` | AOTI compilation, POGEMA/MovingAI evaluation, and the million-agent run |
 | `ablations/` | Refinement-depth, intent-communication, and corridor-conflict studies |
 | `raw_results/` | Experiment JSON, plotting scripts and paper figures |
 
-The checkpoints contain FP32 model weights and configuration, but no optimizer
+The [checkpoints on Hugging Face](https://huggingface.co/tviskaron/DMM)
+contain FP32 model weights and configuration, but no optimizer
 state. `DMM-08M` and `DMM-3M` are pretrained; `DMM-MICPO-08M` and
 `DMM-MICPO-3M` are the MICPO-tuned models.
 
 ## Setup
 
-Run the commands from the repository root. Checkpoints, maps, manifests, and
-figure inputs are read from this checkout.
+Run the commands from the repository root. Maps, manifests, and figure inputs
+are read from this checkout. Release weights download automatically into
+`weights/` on first use, pinned to the Hugging Face commit recorded in
+`model/weights.py`. Existing local files are used without network access.
 
 Use Linux x86-64, an NVIDIA GPU, a CUDA toolkit with `nvcc`, and GCC 11.
 PyTorch is pinned to **2.13.0+cu126**. The code was smoke-tested on H100 with
@@ -42,6 +45,21 @@ uv sync --locked
 The first GPU run compiles the POGEMA-GPU extensions. Download the pretraining
 Arrow dataset with
 `uv run --locked --group train python -m training.pretrain.download_dataset`.
+
+## Model weights
+
+To download all four models before a run:
+
+```bash
+uv run --locked python -m model.weights
+```
+
+Append model names to download only those models, for example `DMM-08M`.
+For offline hosts, copy the downloaded `.pt` files into `weights/` and set
+`HF_HUB_OFFLINE=1`. Custom checkpoint paths remain supported: compilation
+accepts `--checkpoint-dir`, the million-agent runner accepts `--checkpoint`,
+and MICPO accepts `--path_to_weights=/path/to/model.pt`. Missing custom paths
+raise an error rather than downloading a different model.
 
 ## Training
 

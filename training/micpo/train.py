@@ -252,6 +252,11 @@ def main():
         if config.init_from == "scratch":
             log.info("Initialising model from scratch")
         else:
+            from model.weights import resolve_weights
+
+            if config.path_to_weights is None:
+                raise ValueError("path_to_weights must be set for pretrained initialization")
+            config.path_to_weights = str(resolve_weights(config.path_to_weights))
             log.info(f"Loading pretrained weights from: {config.path_to_weights}")
         pi_theta = build_policy(config, device)
 

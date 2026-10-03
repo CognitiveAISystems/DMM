@@ -32,7 +32,8 @@ GPU. Multiple invocations on one host share the local queue and claim distinct
 tasks. The default preflight compares single-task and packed actions/metrics
 on representative episodes.
 
-Compile POGEMA packages from the four included checkpoints using
+Compile POGEMA packages from the four Hugging Face checkpoints
+(downloaded automatically into `weights/`) using
 `python -m evaluation.compile_aoti --benchmark pogema`, selecting
 `--precision fp32` or `--precision hybrid`. The default for pretrained 3M is
 FP32; the other three models default to hybrid. In hybrid mode, both 0.8M

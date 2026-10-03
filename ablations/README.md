@@ -1,8 +1,8 @@
 # POGEMA ablations
 
 Refinement-depth and intent-communication ablations for `DMM-3M` and
-`DMM-MICPO-3M`, run from `checkpoints/` on the frozen POGEMA episodes in
-`evaluation/pogema/`. Both are inference-time interventions: the weights and
+`DMM-MICPO-3M` on the frozen POGEMA episodes in `evaluation/pogema/`.
+Weights download automatically from Hugging Face into `weights/`. Both are inference-time interventions: the weights and
 each agent's own intent update are untouched, only the executed depth or the
 transmitted message changes. The policy runs eagerly, so a depth is a runtime
 argument rather than a compiled package, and `evaluation/` is unaffected.

@@ -38,3 +38,6 @@ precomputed_cost2go.bin
 *.png
 *.gif
 !raw_results/**/assets/*.png
+
+# Legacy release checkpoint location
+/checkpoints/

@@ -109,7 +109,7 @@ def main() -> None:
     parser.add_argument("--agent-chunk", type=int, default=4096)
     parser.add_argument("--bfs-chunk", type=int, default=2048)
     parser.add_argument("--cache-radius", type=int, default=70)
-    parser.add_argument("--checkpoint", default="checkpoints/DMM-MICPO-08M.pt")
+    parser.add_argument("--checkpoint", default="weights/DMM-MICPO-08M.pt")
     parser.add_argument("--output", required=True)
     parser.add_argument(
         "--pibt-resolver",
@@ -208,6 +208,9 @@ def main() -> None:
         (args.agents,), -1, dtype=torch.long, device=device
     )
 
+    from model.weights import resolve_weights
+
+    args.checkpoint = str(resolve_weights(args.checkpoint))
     policy, model_architecture = deployment_policy_from_checkpoint(
         args.checkpoint,
         device=device,

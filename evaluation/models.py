@@ -3,6 +3,8 @@
 import json
 from pathlib import Path
 
+from model.weights import resolve_weights
+
 
 def load_checkpoint_model(name: str, path: Path, device):
     """Load one release checkpoint with the same key normalization for all evaluators."""
@@ -14,7 +16,7 @@ def load_checkpoint_model(name: str, path: Path, device):
     from model.dmm_08m import DMM08M, DMM08MConfig
 
     spec = MODELS[name]
-    payload = torch.load(path, map_location="cpu", weights_only=True)
+    payload = torch.load(resolve_weights(path), map_location="cpu", weights_only=True)
     options = dict(payload["model_args"], n_comm_rounds=4)
     model_type, config_type = ((DMM08M, DMM08MConfig)
                                if spec["architecture"] == "dmm-08m"

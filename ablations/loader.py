@@ -7,7 +7,7 @@ from pathlib import Path
 from evaluation.models import MODELS, load_checkpoint_model
 
 ROOT = Path(__file__).resolve().parents[1]
-CHECKPOINTS = ROOT / "checkpoints"
+CHECKPOINTS = ROOT / "weights"
 
 
 def load_dmm(model: str, rounds: int, device):

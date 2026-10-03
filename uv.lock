@@ -140,6 +140,7 @@ name = "dmm-release"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "huggingface-hub", marker = "platform_machine == 'x86_64' and sys_platform == 'linux'" },
     { name = "ninja", marker = "platform_machine == 'x86_64' and sys_platform == 'linux'" },
     { name = "numpy", marker = "platform_machine == 'x86_64' and sys_platform == 'linux'" },
     { name = "torch", marker = "platform_machine == 'x86_64' and sys_platform == 'linux'" },
@@ -150,7 +151,6 @@ logging = [
     { name = "wandb", marker = "platform_machine == 'x86_64' and sys_platform == 'linux'" },
 ]
 train = [
-    { name = "huggingface-hub", marker = "platform_machine == 'x86_64' and sys_platform == 'linux'" },
     { name = "loguru", marker = "platform_machine == 'x86_64' and sys_platform == 'linux'" },
     { name = "pyarrow", marker = "platform_machine == 'x86_64' and sys_platform == 'linux'" },
     { name = "pyyaml", marker = "platform_machine == 'x86_64' and sys_platform == 'linux'" },
@@ -159,6 +159,7 @@ train = [
 
 [package.metadata]
 requires-dist = [
+    { name = "huggingface-hub", specifier = ">=0.27,<2" },
     { name = "ninja", specifier = ">=1.11,<2" },
     { name = "numpy", specifier = "==1.26.4" },
     { name = "torch", specifier = "==2.13.0+cu126", index = "https://download.pytorch.org/whl/cu126" },
@@ -167,7 +168,6 @@ requires-dist = [
 [package.metadata.requires-dev]
 logging = [{ name = "wandb", specifier = ">=0.19,<1" }]
 train = [
-    { name = "huggingface-hub", specifier = ">=0.27,<2" },
     { name = "loguru", specifier = ">=0.7,<1" },
     { name = "pyarrow", specifier = ">=17,<24" },
     { name = "pyyaml", specifier = ">=6,<7" },

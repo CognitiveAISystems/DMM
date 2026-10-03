@@ -123,7 +123,9 @@ class DMM08MPolicy(nn.Module):
 
         log = logging.getLogger(__name__)
 
-        checkpoint = torch.load(path, map_location=device, weights_only=False)
+        from model.weights import resolve_weights
+
+        checkpoint = torch.load(resolve_weights(path), map_location=device, weights_only=False)
         raw_sd = checkpoint["model"]
 
         # Strip _orig_mod. prefix (saved from a torch.compile'd model)

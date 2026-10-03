@@ -117,7 +117,9 @@ class DMMPolicy(nn.Module):
 
         log = logging.getLogger(__name__)
 
-        checkpoint = torch.load(path, map_location=device, weights_only=False)
+        from model.weights import resolve_weights
+
+        checkpoint = torch.load(resolve_weights(path), map_location=device, weights_only=False)
         raw_sd = checkpoint["model"]
 
         state_dict = _normalize_model_state_dict(raw_sd)

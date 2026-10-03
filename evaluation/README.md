@@ -48,7 +48,8 @@ CUDA_VISIBLE_DEVICES=0 uv run --locked python -m evaluation.run --model DMM-MICP
 The GPU simulator and its native CUDA sources are bundled in
 [`pogema_gpu/`](../pogema_gpu/) and installed by the root `uv` project. Follow
 the Linux/CUDA setup in the [root README](../README.md); four model-only
-checkpoints are bundled under [`checkpoints/`](../checkpoints/), while the
+checkpoints download from [Hugging Face](https://huggingface.co/tviskaron/DMM)
+into the ignored `weights/` folder on first use, while the
 compiled packages are generated on the evaluation host.
 
 The four-GPU scalability experiment is separate from those single-GPU

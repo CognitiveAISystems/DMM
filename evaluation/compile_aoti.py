@@ -141,7 +141,7 @@ def main() -> None:
     parser.add_argument("--benchmark", choices=("pogema", "movingai"), required=True)
     parser.add_argument("--precision", choices=("fp32", "hybrid"),
                         help="compilation mode; omit to use the model default")
-    parser.add_argument("--checkpoint-dir", type=Path, default=ROOT / "checkpoints")
+    parser.add_argument("--checkpoint-dir", type=Path, default=ROOT / "weights")
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument("--max-agents", type=int,
                         help="test-only smaller dynamic limit; omit for the model default")

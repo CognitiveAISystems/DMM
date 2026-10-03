@@ -65,7 +65,7 @@ n_val_scenarios: 64
 num_agents: 32
 num_previous_actions: 5
 obstacle_density: 0.2
-path_to_weights: checkpoints/DMM-08M.pt
+path_to_weights: weights/DMM-08M.pt
 policy_class: dmm08m
 process_supervision: false
 ref_update_freq: 0
